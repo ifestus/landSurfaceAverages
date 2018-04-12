@@ -1,0 +1,2917 @@
+Month,Avg. Surface Temperature,Avg. Uncertainty,Country
+January,-2.941,2.230,Åland
+February,-3.630,2.006,Åland
+March,-2.071,1.759,Åland
+April,1.772,1.692,Åland
+May,6.865,1.554,Åland
+June,12.214,1.608,Åland
+July,15.862,1.605,Åland
+August,15.448,1.556,Åland
+September,11.558,1.439,Åland
+October,6.698,1.587,Åland
+November,2.640,1.719,Åland
+December,-0.792,1.953,Åland
+January,0.470,1.048,Afghanistan
+February,2.917,0.981,Afghanistan
+March,8.416,0.925,Afghanistan
+April,14.500,0.903,Afghanistan
+May,20.288,0.881,Afghanistan
+June,24.933,0.924,Afghanistan
+July,26.933,0.926,Afghanistan
+August,25.220,0.906,Afghanistan
+September,20.319,0.893,Afghanistan
+October,13.865,0.849,Afghanistan
+November,7.719,0.936,Afghanistan
+December,2.546,0.991,Afghanistan
+January,20.943,0.460,Africa
+February,22.238,0.441,Africa
+March,23.901,0.408,Africa
+April,25.005,0.395,Africa
+May,25.646,0.378,Africa
+June,25.516,0.387,Africa
+July,25.211,0.374,Africa
+August,25.365,0.364,Africa
+September,25.678,0.354,Africa
+October,24.970,0.364,Africa
+November,23.182,0.400,Africa
+December,21.196,0.420,Africa
+January,2.861,1.938,Albania
+February,4.284,1.790,Albania
+March,7.355,1.495,Albania
+April,11.295,1.506,Albania
+May,16.038,1.378,Albania
+June,19.979,1.364,Albania
+July,22.440,1.404,Albania
+August,22.134,1.369,Albania
+September,18.410,1.319,Albania
+October,13.508,1.429,Albania
+November,8.636,1.553,Albania
+December,4.483,1.746,Albania
+January,11.821,1.304,Algeria
+February,14.429,1.251,Algeria
+March,18.377,1.181,Algeria
+April,22.498,1.149,Algeria
+May,27.148,1.127,Algeria
+June,31.475,1.147,Algeria
+July,33.663,1.157,Algeria
+August,32.918,1.112,Algeria
+September,29.470,1.094,Algeria
+October,23.772,1.141,Algeria
+November,17.542,1.198,Algeria
+December,12.611,1.254,Algeria
+January,26.789,0.562,American Samoa
+February,26.934,0.549,American Samoa
+March,27.067,0.533,American Samoa
+April,26.951,0.530,American Samoa
+May,26.881,0.516,American Samoa
+June,26.545,0.553,American Samoa
+July,26.211,0.565,American Samoa
+August,26.188,0.524,American Samoa
+September,26.259,0.535,American Samoa
+October,26.279,0.529,American Samoa
+November,26.563,0.530,American Samoa
+December,26.680,0.569,American Samoa
+January,3.424,1.965,Andorra
+February,4.910,1.782,Andorra
+March,7.143,1.539,Andorra
+April,9.543,1.509,Andorra
+May,13.338,1.381,Andorra
+June,17.254,1.379,Andorra
+July,19.955,1.403,Andorra
+August,19.630,1.383,Andorra
+September,16.381,1.322,Andorra
+October,11.626,1.407,Andorra
+November,7.202,1.572,Andorra
+December,4.090,1.679,Andorra
+January,22.572,0.704,Angola
+February,22.836,0.667,Angola
+March,22.966,0.655,Angola
+April,22.432,0.638,Angola
+May,20.997,0.710,Angola
+June,18.882,0.708,Angola
+July,18.648,0.646,Angola
+August,20.514,0.637,Angola
+September,22.747,0.619,Angola
+October,23.503,0.599,Angola
+November,23.193,0.621,Angola
+December,22.591,0.669,Angola
+January,24.850,0.707,Anguilla
+February,24.862,0.653,Anguilla
+March,25.264,0.602,Anguilla
+April,25.810,0.615,Anguilla
+May,26.879,0.597,Anguilla
+June,27.701,0.563,Anguilla
+July,28.056,0.563,Anguilla
+August,28.170,0.536,Anguilla
+September,27.982,0.537,Anguilla
+October,27.508,0.530,Anguilla
+November,26.774,0.600,Anguilla
+December,25.501,0.691,Anguilla
+January,nan,nan,Antarctica
+February,nan,nan,Antarctica
+March,nan,nan,Antarctica
+April,nan,nan,Antarctica
+May,nan,nan,Antarctica
+June,nan,nan,Antarctica
+July,nan,nan,Antarctica
+August,nan,nan,Antarctica
+September,nan,nan,Antarctica
+October,nan,nan,Antarctica
+November,nan,nan,Antarctica
+December,nan,nan,Antarctica
+January,24.762,0.695,Antigua And Barbuda
+February,24.767,0.642,Antigua And Barbuda
+March,25.191,0.584,Antigua And Barbuda
+April,25.799,0.607,Antigua And Barbuda
+May,26.847,0.591,Antigua And Barbuda
+June,27.541,0.548,Antigua And Barbuda
+July,27.816,0.554,Antigua And Barbuda
+August,27.902,0.528,Antigua And Barbuda
+September,27.649,0.531,Antigua And Barbuda
+October,27.132,0.512,Antigua And Barbuda
+November,26.497,0.578,Antigua And Barbuda
+December,25.376,0.676,Antigua And Barbuda
+January,21.247,0.585,Argentina
+February,20.399,0.554,Argentina
+March,18.195,0.527,Argentina
+April,14.280,0.515,Argentina
+May,10.836,0.502,Argentina
+June,7.997,0.572,Argentina
+July,7.746,0.511,Argentina
+August,9.467,0.506,Argentina
+September,12.134,0.487,Argentina
+October,15.045,0.481,Argentina
+November,18.081,0.524,Argentina
+December,20.171,0.564,Argentina
+January,-4.897,1.526,Armenia
+February,-2.998,1.446,Armenia
+March,2.079,1.241,Armenia
+April,7.907,1.115,Armenia
+May,13.246,1.043,Armenia
+June,17.562,1.083,Armenia
+July,21.048,1.085,Armenia
+August,20.944,1.062,Armenia
+September,16.250,1.002,Armenia
+October,9.944,1.078,Armenia
+November,3.651,1.195,Armenia
+December,-2.150,1.397,Armenia
+January,26.285,0.718,Aruba
+February,26.100,0.696,Aruba
+March,26.391,0.645,Aruba
+April,27.144,0.654,Aruba
+May,28.423,0.655,Aruba
+June,29.108,0.619,Aruba
+July,29.432,0.627,Aruba
+August,29.538,0.595,Aruba
+September,29.322,0.586,Aruba
+October,28.548,0.567,Aruba
+November,27.893,0.631,Aruba
+December,26.889,0.751,Aruba
+January,-7.502,0.692,Asia
+February,-5.063,0.649,Asia
+March,0.839,0.589,Asia
+April,8.021,0.590,Asia
+May,14.421,0.519,Asia
+June,19.121,0.540,Asia
+July,21.184,0.514,Asia
+August,19.641,0.511,Asia
+September,14.928,0.495,Asia
+October,7.991,0.533,Asia
+November,0.086,0.603,Asia
+December,-5.797,0.653,Asia
+January,27.820,0.541,Australia
+February,27.269,0.528,Australia
+March,25.449,0.476,Australia
+April,21.847,0.457,Australia
+May,17.933,0.457,Australia
+June,14.927,0.458,Australia
+July,14.165,0.455,Australia
+August,16.051,0.456,Australia
+September,19.279,0.442,Australia
+October,22.531,0.458,Australia
+November,25.391,0.493,Australia
+December,27.012,0.531,Australia
+January,-4.402,2.077,Austria
+February,-2.460,1.912,Austria
+March,1.325,1.588,Austria
+April,6.075,1.541,Austria
+May,11.175,1.388,Austria
+June,14.447,1.384,Austria
+July,16.127,1.413,Austria
+August,15.489,1.384,Austria
+September,11.912,1.326,Austria
+October,6.650,1.450,Austria
+November,1.206,1.612,Austria
+December,-2.931,1.793,Austria
+January,-0.713,1.292,Azerbaijan
+February,0.462,1.211,Azerbaijan
+March,4.326,1.104,Azerbaijan
+April,9.697,1.067,Azerbaijan
+May,15.565,0.992,Azerbaijan
+June,20.163,1.026,Azerbaijan
+July,23.242,0.999,Azerbaijan
+August,22.805,0.978,Azerbaijan
+September,18.161,0.928,Azerbaijan
+October,12.180,1.011,Azerbaijan
+November,6.519,1.108,Azerbaijan
+December,1.596,1.245,Azerbaijan
+January,21.905,1.142,Bahamas
+February,22.145,1.067,Bahamas
+March,22.984,0.911,Bahamas
+April,24.125,0.944,Bahamas
+May,25.809,0.868,Bahamas
+June,27.405,0.886,Bahamas
+July,28.287,0.896,Bahamas
+August,28.306,0.828,Bahamas
+September,27.620,0.803,Bahamas
+October,26.058,0.849,Bahamas
+November,24.286,0.981,Bahamas
+December,22.529,1.136,Bahamas
+January,15.586,0.955,Bahrain
+February,16.811,0.919,Bahrain
+March,20.437,0.893,Bahrain
+April,25.044,0.915,Bahrain
+May,30.302,0.915,Bahrain
+June,33.484,0.983,Bahrain
+July,34.828,0.951,Bahrain
+August,34.396,0.937,Bahrain
+September,32.005,0.882,Bahrain
+October,27.983,0.876,Bahrain
+November,22.769,0.917,Bahrain
+December,17.606,0.985,Bahrain
+January,25.177,0.633,Baker Island
+February,25.425,0.585,Baker Island
+March,25.762,0.563,Baker Island
+April,25.798,0.560,Baker Island
+May,25.694,0.533,Baker Island
+June,25.303,0.549,Baker Island
+July,25.208,0.537,Baker Island
+August,25.388,0.545,Baker Island
+September,25.313,0.504,Baker Island
+October,25.117,0.510,Baker Island
+November,25.199,0.547,Baker Island
+December,25.077,0.593,Baker Island
+January,17.787,0.954,Bangladesh
+February,20.296,0.926,Bangladesh
+March,24.748,0.880,Bangladesh
+April,27.359,0.849,Bangladesh
+May,28.076,0.754,Bangladesh
+June,28.144,0.780,Bangladesh
+July,28.047,0.729,Bangladesh
+August,28.009,0.707,Bangladesh
+September,27.710,0.692,Bangladesh
+October,26.130,0.777,Bangladesh
+November,22.762,0.874,Bangladesh
+December,18.772,0.883,Bangladesh
+January,25.194,0.699,Barbados
+February,25.141,0.648,Barbados
+March,25.557,0.588,Barbados
+April,26.152,0.585,Barbados
+May,27.072,0.581,Barbados
+June,27.245,0.510,Barbados
+July,27.277,0.520,Barbados
+August,27.372,0.515,Barbados
+September,27.283,0.527,Barbados
+October,26.907,0.504,Barbados
+November,26.588,0.559,Barbados
+December,25.734,0.658,Barbados
+January,-6.787,1.930,Belarus
+February,-5.810,1.798,Belarus
+March,-1.426,1.605,Belarus
+April,5.967,1.537,Belarus
+May,12.668,1.424,Belarus
+June,16.421,1.418,Belarus
+July,18.131,1.479,Belarus
+August,16.926,1.450,Belarus
+September,11.992,1.411,Belarus
+October,5.851,1.499,Belarus
+November,0.366,1.587,Belarus
+December,-4.362,1.783,Belarus
+January,1.192,2.077,Belgium
+February,2.576,1.897,Belgium
+March,5.243,1.621,Belgium
+April,8.778,1.580,Belgium
+May,13.043,1.447,Belgium
+June,16.052,1.431,Belgium
+July,17.738,1.462,Belgium
+August,17.364,1.467,Belgium
+September,14.466,1.366,Belgium
+October,9.830,1.498,Belgium
+November,5.310,1.676,Belgium
+December,2.283,1.808,Belgium
+January,22.422,0.946,Belize
+February,23.341,0.932,Belize
+March,24.769,0.887,Belize
+April,26.137,0.869,Belize
+May,27.092,0.767,Belize
+June,26.853,0.801,Belize
+July,26.428,0.788,Belize
+August,26.441,0.752,Belize
+September,26.226,0.740,Belize
+October,24.946,0.777,Belize
+November,23.521,0.817,Belize
+December,22.423,0.966,Belize
+January,26.244,0.644,Benin
+February,28.408,0.617,Benin
+March,30.016,0.619,Benin
+April,29.726,0.594,Benin
+May,28.531,0.560,Benin
+June,26.896,0.560,Benin
+July,25.669,0.529,Benin
+August,25.028,0.537,Benin
+September,25.598,0.510,Benin
+October,26.593,0.546,Benin
+November,27.076,0.576,Benin
+December,26.189,0.639,Benin
+January,3.663,0.947,Bhutan
+February,5.638,0.935,Bhutan
+March,9.444,0.852,Bhutan
+April,12.452,0.873,Bhutan
+May,15.085,0.789,Bhutan
+June,17.382,0.795,Bhutan
+July,18.056,0.738,Bhutan
+August,17.631,0.708,Bhutan
+September,16.181,0.701,Bhutan
+October,12.904,0.796,Bhutan
+November,8.457,0.880,Bhutan
+December,4.528,0.886,Bhutan
+January,22.285,0.719,Bolivia
+February,22.154,0.711,Bolivia
+March,22.010,0.683,Bolivia
+April,20.860,0.699,Bolivia
+May,19.271,0.719,Bolivia
+June,17.877,0.787,Bolivia
+July,17.924,0.764,Bolivia
+August,19.511,0.770,Bolivia
+September,21.272,0.751,Bolivia
+October,22.251,0.710,Bolivia
+November,22.709,0.705,Bolivia
+December,22.458,0.730,Bolivia
+January,25.483,0.681,"""Bonaire"
+February,25.475,0.662,"""Bonaire"
+March,25.887,0.607,"""Bonaire"
+April,26.598,0.631,"""Bonaire"
+May,27.723,0.622,"""Bonaire"
+June,28.154,0.577,"""Bonaire"
+July,28.330,0.577,"""Bonaire"
+August,28.511,0.559,"""Bonaire"
+September,28.532,0.553,"""Bonaire"
+October,28.001,0.536,"""Bonaire"
+November,27.305,0.582,"""Bonaire"
+December,26.109,0.696,"""Bonaire"
+January,-0.269,2.045,Bosnia And Herzegovina
+February,1.505,1.903,Bosnia And Herzegovina
+March,5.381,1.563,Bosnia And Herzegovina
+April,9.938,1.540,Bosnia And Herzegovina
+May,14.842,1.411,Bosnia And Herzegovina
+June,18.407,1.398,Bosnia And Herzegovina
+July,20.573,1.427,Bosnia And Herzegovina
+August,20.071,1.408,Bosnia And Herzegovina
+September,16.201,1.350,Bosnia And Herzegovina
+October,11.096,1.450,Bosnia And Herzegovina
+November,5.912,1.625,Bosnia And Herzegovina
+December,1.489,1.816,Bosnia And Herzegovina
+January,26.039,0.787,Botswana
+February,25.519,0.746,Botswana
+March,24.321,0.729,Botswana
+April,21.691,0.745,Botswana
+May,18.237,0.760,Botswana
+June,15.149,0.765,Botswana
+July,14.979,0.772,Botswana
+August,17.833,0.761,Botswana
+September,22.018,0.761,Botswana
+October,24.964,0.736,Botswana
+November,25.930,0.719,Botswana
+December,25.992,0.789,Botswana
+January,25.264,0.623,Brazil
+February,25.259,0.588,Brazil
+March,25.143,0.560,Brazil
+April,24.615,0.568,Brazil
+May,23.971,0.539,Brazil
+June,23.326,0.586,Brazil
+July,23.333,0.586,Brazil
+August,24.264,0.554,Brazil
+September,25.114,0.548,Brazil
+October,25.395,0.547,Brazil
+November,25.452,0.556,Brazil
+December,25.272,0.619,Brazil
+January,24.588,0.683,British Virgin Islands
+February,24.562,0.636,British Virgin Islands
+March,24.918,0.579,British Virgin Islands
+April,25.490,0.592,British Virgin Islands
+May,26.609,0.575,British Virgin Islands
+June,27.484,0.546,British Virgin Islands
+July,27.877,0.547,British Virgin Islands
+August,27.961,0.521,British Virgin Islands
+September,27.707,0.520,British Virgin Islands
+October,27.180,0.512,British Virgin Islands
+November,26.455,0.591,British Virgin Islands
+December,25.231,0.685,British Virgin Islands
+January,-0.762,1.933,Bulgaria
+February,0.741,1.802,Bulgaria
+March,4.561,1.575,Bulgaria
+April,9.709,1.538,Bulgaria
+May,15.076,1.414,Bulgaria
+June,18.975,1.412,Bulgaria
+July,21.217,1.434,Bulgaria
+August,20.830,1.392,Bulgaria
+September,16.773,1.374,Bulgaria
+October,11.420,1.464,Bulgaria
+November,6.049,1.591,Bulgaria
+December,1.311,1.799,Bulgaria
+January,24.717,0.762,Burkina Faso
+February,27.427,0.737,Burkina Faso
+March,30.449,0.698,Burkina Faso
+April,31.696,0.714,Burkina Faso
+May,31.255,0.691,Burkina Faso
+June,29.359,0.697,Burkina Faso
+July,27.406,0.661,Burkina Faso
+August,26.363,0.676,Burkina Faso
+September,27.168,0.642,Burkina Faso
+October,28.368,0.653,Burkina Faso
+November,27.627,0.698,Burkina Faso
+December,25.215,0.743,Burkina Faso
+January,18.509,0.790,Burma
+February,20.511,0.770,Burma
+March,23.896,0.716,Burma
+April,26.235,0.723,Burma
+May,26.753,0.628,Burma
+June,26.204,0.642,Burma
+July,25.821,0.606,Burma
+August,25.683,0.589,Burma
+September,25.459,0.549,Burma
+October,24.303,0.628,Burma
+November,21.929,0.724,Burma
+December,18.993,0.730,Burma
+January,19.989,0.751,Burundi
+February,20.099,0.697,Burundi
+March,19.926,0.655,Burundi
+April,19.758,0.617,Burundi
+May,20.052,0.608,Burundi
+June,19.837,0.643,Burundi
+July,19.814,0.650,Burundi
+August,20.556,0.672,Burundi
+September,21.026,0.697,Burundi
+October,20.496,0.628,Burundi
+November,19.796,0.652,Burundi
+December,19.522,0.713,Burundi
+January,25.724,0.733,Côte D'Ivoire
+February,27.279,0.672,Côte D'Ivoire
+March,27.875,0.636,Côte D'Ivoire
+April,27.376,0.635,Côte D'Ivoire
+May,26.728,0.582,Côte D'Ivoire
+June,25.640,0.597,Côte D'Ivoire
+July,24.772,0.591,Côte D'Ivoire
+August,24.383,0.601,Côte D'Ivoire
+September,24.909,0.544,Côte D'Ivoire
+October,25.489,0.582,Côte D'Ivoire
+November,25.894,0.613,Côte D'Ivoire
+December,25.352,0.697,Côte D'Ivoire
+January,24.596,0.746,Cambodia
+February,26.143,0.711,Cambodia
+March,27.920,0.686,Cambodia
+April,28.746,0.662,Cambodia
+May,28.352,0.595,Cambodia
+June,27.609,0.579,Cambodia
+July,27.142,0.577,Cambodia
+August,26.964,0.558,Cambodia
+September,26.600,0.514,Cambodia
+October,26.092,0.549,Cambodia
+November,25.409,0.607,Cambodia
+December,24.275,0.679,Cambodia
+January,23.926,0.661,Cameroon
+February,25.141,0.637,Cameroon
+March,25.990,0.659,Cameroon
+April,25.811,0.597,Cameroon
+May,25.204,0.556,Cameroon
+June,24.173,0.552,Cameroon
+July,23.384,0.557,Cameroon
+August,23.213,0.522,Cameroon
+September,23.538,0.535,Cameroon
+October,23.885,0.554,Cameroon
+November,24.210,0.563,Cameroon
+December,23.687,0.658,Cameroon
+January,-23.478,1.431,Canada
+February,-21.588,1.332,Canada
+March,-16.015,1.276,Canada
+April,-6.862,1.236,Canada
+May,2.241,1.205,Canada
+June,9.256,1.228,Canada
+July,12.821,1.151,Canada
+August,11.179,1.161,Canada
+September,5.254,1.155,Canada
+October,-2.782,1.210,Canada
+November,-12.040,1.307,Canada
+December,-19.993,1.378,Canada
+January,22.071,0.800,Cape Verde
+February,21.802,0.827,Cape Verde
+March,22.193,0.790,Cape Verde
+April,22.517,0.771,Cape Verde
+May,23.346,0.792,Cape Verde
+June,24.437,0.770,Cape Verde
+July,25.487,0.685,Cape Verde
+August,26.533,0.714,Cape Verde
+September,26.989,0.686,Cape Verde
+October,26.409,0.712,Cape Verde
+November,25.175,0.743,Cape Verde
+December,23.243,0.790,Cape Verde
+January,24.525,0.915,Cayman Islands
+February,24.697,0.892,Cayman Islands
+March,25.382,0.778,Cayman Islands
+April,26.248,0.765,Cayman Islands
+May,27.351,0.676,Cayman Islands
+June,28.187,0.724,Cayman Islands
+July,28.695,0.721,Cayman Islands
+August,28.722,0.675,Cayman Islands
+September,28.333,0.689,Cayman Islands
+October,27.257,0.701,Cayman Islands
+November,26.212,0.778,Cayman Islands
+December,25.052,0.958,Cayman Islands
+January,24.722,0.790,Central African Republic
+February,26.281,0.704,Central African Republic
+March,27.325,0.714,Central African Republic
+April,27.043,0.680,Central African Republic
+May,26.201,0.653,Central African Republic
+June,25.173,0.633,Central African Republic
+July,24.387,0.611,Central African Republic
+August,24.231,0.616,Central African Republic
+September,24.477,0.595,Central African Republic
+October,24.653,0.622,Central African Republic
+November,24.672,0.636,Central African Republic
+December,24.118,0.728,Central African Republic
+January,21.622,1.049,Chad
+February,23.702,0.942,Chad
+March,27.072,0.953,Chad
+April,29.858,0.920,Chad
+May,30.989,0.956,Chad
+June,30.696,0.899,Chad
+July,29.199,0.875,Chad
+August,28.366,0.865,Chad
+September,28.570,0.874,Chad
+October,27.911,0.880,Chad
+November,25.242,0.944,Chad
+December,22.222,1.030,Chad
+January,13.766,0.623,Chile
+February,13.484,0.595,Chile
+March,12.056,0.551,Chile
+April,9.481,0.563,Chile
+May,7.130,0.561,Chile
+June,5.183,0.613,Chile
+July,4.905,0.564,Chile
+August,5.907,0.549,Chile
+September,7.540,0.543,Chile
+October,9.249,0.530,Chile
+November,11.248,0.566,Chile
+December,12.742,0.614,Chile
+January,-8.500,0.710,China
+February,-5.320,0.716,China
+March,1.050,0.655,China
+April,7.981,0.619,China
+May,13.487,0.584,China
+June,17.659,0.616,China
+July,19.843,0.595,China
+August,18.705,0.592,China
+September,14.067,0.569,China
+October,7.338,0.608,China
+November,-0.412,0.634,China
+December,-6.717,0.709,China
+January,25.970,0.684,Christmas Island
+February,26.100,0.673,Christmas Island
+March,26.359,0.631,Christmas Island
+April,26.386,0.595,Christmas Island
+May,26.369,0.548,Christmas Island
+June,25.766,0.600,Christmas Island
+July,25.139,0.617,Christmas Island
+August,24.963,0.596,Christmas Island
+September,25.189,0.576,Christmas Island
+October,25.480,0.585,Christmas Island
+November,25.857,0.666,Christmas Island
+December,25.826,0.681,Christmas Island
+January,24.805,0.643,Colombia
+February,25.129,0.643,Colombia
+March,25.137,0.619,Colombia
+April,24.748,0.577,Colombia
+May,24.636,0.573,Colombia
+June,24.403,0.557,Colombia
+July,24.493,0.564,Colombia
+August,24.736,0.540,Colombia
+September,24.831,0.533,Colombia
+October,24.555,0.523,Colombia
+November,24.605,0.568,Colombia
+December,24.513,0.638,Colombia
+January,26.907,0.678,Comoros
+February,27.013,0.598,Comoros
+March,27.169,0.525,Comoros
+April,26.685,0.542,Comoros
+May,25.919,0.546,Comoros
+June,24.763,0.537,Comoros
+July,24.009,0.548,Comoros
+August,23.796,0.542,Comoros
+September,24.156,0.552,Comoros
+October,25.035,0.572,Comoros
+November,26.319,0.571,Comoros
+December,26.763,0.621,Comoros
+January,23.792,0.588,Congo (Democratic Republic Of The)
+February,24.188,0.557,Congo (Democratic Republic Of The)
+March,24.358,0.520,Congo (Democratic Republic Of The)
+April,24.216,0.503,Congo (Democratic Republic Of The)
+May,24.045,0.514,Congo (Democratic Republic Of The)
+June,23.251,0.519,Congo (Democratic Republic Of The)
+July,22.938,0.486,Congo (Democratic Republic Of The)
+August,23.440,0.500,Congo (Democratic Republic Of The)
+September,23.945,0.502,Congo (Democratic Republic Of The)
+October,23.853,0.489,Congo (Democratic Republic Of The)
+November,23.739,0.503,Congo (Democratic Republic Of The)
+December,23.498,0.543,Congo (Democratic Republic Of The)
+January,24.576,0.580,Congo
+February,25.161,0.564,Congo
+March,25.437,0.553,Congo
+April,25.335,0.515,Congo
+May,25.073,0.522,Congo
+June,23.909,0.523,Congo
+July,23.227,0.488,Congo
+August,23.529,0.505,Congo
+September,24.135,0.491,Congo
+October,24.302,0.492,Congo
+November,24.514,0.514,Congo
+December,24.306,0.537,Congo
+January,25.084,0.749,Costa Rica
+February,25.613,0.762,Costa Rica
+March,26.335,0.732,Costa Rica
+April,26.592,0.734,Costa Rica
+May,26.413,0.644,Costa Rica
+June,25.838,0.665,Costa Rica
+July,25.737,0.653,Costa Rica
+August,25.683,0.641,Costa Rica
+September,25.410,0.627,Costa Rica
+October,24.923,0.624,Costa Rica
+November,24.898,0.651,Costa Rica
+December,24.851,0.745,Costa Rica
+January,0.511,2.030,Croatia
+February,2.393,1.880,Croatia
+March,6.299,1.547,Croatia
+April,10.951,1.525,Croatia
+May,15.984,1.385,Croatia
+June,19.635,1.376,Croatia
+July,21.744,1.406,Croatia
+August,21.073,1.378,Croatia
+September,17.095,1.323,Croatia
+October,11.828,1.425,Croatia
+November,6.517,1.590,Croatia
+December,2.168,1.777,Croatia
+January,22.889,0.893,Cuba
+February,23.121,0.867,Cuba
+March,23.922,0.728,Cuba
+April,24.827,0.744,Cuba
+May,26.003,0.662,Cuba
+June,27.028,0.710,Cuba
+July,27.627,0.695,Cuba
+August,27.643,0.657,Cuba
+September,27.232,0.655,Cuba
+October,26.144,0.696,Cuba
+November,24.927,0.780,Cuba
+December,23.517,0.946,Cuba
+January,25.776,0.718,Curaçao
+February,25.729,0.698,Curaçao
+March,26.105,0.643,Curaçao
+April,26.828,0.660,Curaçao
+May,27.937,0.662,Curaçao
+June,28.316,0.619,Curaçao
+July,28.456,0.621,Curaçao
+August,28.654,0.593,Curaçao
+September,28.668,0.585,Curaçao
+October,28.057,0.571,Curaçao
+November,27.398,0.623,Curaçao
+December,26.343,0.747,Curaçao
+January,11.180,1.114,Cyprus
+February,11.443,1.087,Cyprus
+March,13.315,1.003,Cyprus
+April,16.275,0.984,Cyprus
+May,20.264,0.936,Cyprus
+June,23.926,0.954,Cyprus
+July,26.348,0.988,Cyprus
+August,26.737,0.953,Cyprus
+September,24.549,0.905,Cyprus
+October,21.209,0.983,Cyprus
+November,17.044,1.033,Cyprus
+December,13.051,1.127,Cyprus
+January,-3.070,2.055,Czech Republic
+February,-1.380,1.892,Czech Republic
+March,2.344,1.584,Czech Republic
+April,7.467,1.542,Czech Republic
+May,12.765,1.394,Czech Republic
+June,16.049,1.399,Czech Republic
+July,17.777,1.430,Czech Republic
+August,17.187,1.397,Czech Republic
+September,13.314,1.340,Czech Republic
+October,7.870,1.454,Czech Republic
+November,2.591,1.611,Czech Republic
+December,-1.314,1.784,Czech Republic
+January,-0.239,2.107,Denmark (Europe)
+February,0.132,1.913,Denmark (Europe)
+March,1.992,1.648,Denmark (Europe)
+April,5.944,1.604,Denmark (Europe)
+May,10.908,1.458,Denmark (Europe)
+June,14.720,1.498,Denmark (Europe)
+July,16.693,1.519,Denmark (Europe)
+August,16.346,1.484,Denmark (Europe)
+September,13.272,1.371,Denmark (Europe)
+October,8.663,1.525,Denmark (Europe)
+November,4.339,1.675,Denmark (Europe)
+December,1.319,1.834,Denmark (Europe)
+January,-29.981,2.180,Denmark
+February,-30.035,2.123,Denmark
+March,-28.290,1.964,Denmark
+April,-21.873,1.852,Denmark
+May,-11.617,1.593,Denmark
+June,-4.184,1.545,Denmark
+July,-1.317,1.533,Denmark
+August,-3.894,1.524,Denmark
+September,-11.032,1.522,Denmark
+October,-19.700,1.617,Denmark
+November,-25.767,1.755,Denmark
+December,-29.016,2.081,Denmark
+January,24.476,0.860,Djibouti
+February,25.519,0.896,Djibouti
+March,27.243,0.870,Djibouti
+April,28.606,0.830,Djibouti
+May,30.337,0.759,Djibouti
+June,32.363,0.849,Djibouti
+July,33.332,0.983,Djibouti
+August,32.919,1.012,Djibouti
+September,31.417,0.959,Djibouti
+October,28.346,0.879,Djibouti
+November,26.313,0.870,Djibouti
+December,24.827,0.858,Djibouti
+January,24.596,0.719,Dominica
+February,24.565,0.662,Dominica
+March,24.988,0.602,Dominica
+April,25.621,0.617,Dominica
+May,26.700,0.603,Dominica
+June,27.155,0.544,Dominica
+July,27.231,0.541,Dominica
+August,27.265,0.529,Dominica
+September,27.098,0.539,Dominica
+October,26.704,0.508,Dominica
+November,26.229,0.569,Dominica
+December,25.194,0.678,Dominica
+January,23.690,0.801,Dominican Republic
+February,23.813,0.750,Dominican Republic
+March,24.354,0.693,Dominican Republic
+April,24.943,0.706,Dominican Republic
+May,25.824,0.658,Dominican Republic
+June,26.673,0.653,Dominican Republic
+July,27.216,0.665,Dominican Republic
+August,27.252,0.629,Dominican Republic
+September,26.883,0.612,Dominican Republic
+October,26.212,0.628,Dominican Republic
+November,25.463,0.715,Dominican Republic
+December,24.268,0.849,Dominican Republic
+January,22.182,0.550,Ecuador
+February,22.353,0.551,Ecuador
+March,22.440,0.573,Ecuador
+April,22.292,0.512,Ecuador
+May,22.146,0.513,Ecuador
+June,21.533,0.564,Ecuador
+July,21.124,0.562,Ecuador
+August,21.216,0.520,Ecuador
+September,21.593,0.522,Ecuador
+October,21.614,0.504,Ecuador
+November,21.900,0.552,Ecuador
+December,22.024,0.494,Ecuador
+January,13.286,1.026,Egypt
+February,14.919,0.989,Egypt
+March,18.455,0.963,Egypt
+April,22.720,0.954,Egypt
+May,26.854,0.922,Egypt
+June,29.380,0.922,Egypt
+July,30.208,0.932,Egypt
+August,29.955,0.921,Egypt
+September,27.824,0.907,Egypt
+October,24.317,0.943,Egypt
+November,19.195,0.965,Egypt
+December,14.625,1.019,Egypt
+January,23.755,0.836,El Salvador
+February,24.508,0.820,El Salvador
+March,25.696,0.799,El Salvador
+April,26.298,0.819,El Salvador
+May,26.099,0.701,El Salvador
+June,25.352,0.698,El Salvador
+July,25.303,0.707,El Salvador
+August,25.314,0.702,El Salvador
+September,24.764,0.691,El Salvador
+October,24.160,0.700,El Salvador
+November,23.980,0.754,El Salvador
+December,23.666,0.831,El Salvador
+January,25.569,0.618,Equatorial Guinea
+February,25.964,0.604,Equatorial Guinea
+March,25.952,0.614,Equatorial Guinea
+April,25.737,0.553,Equatorial Guinea
+May,25.506,0.539,Equatorial Guinea
+June,24.200,0.549,Equatorial Guinea
+July,23.253,0.544,Equatorial Guinea
+August,23.500,0.536,Equatorial Guinea
+September,24.328,0.544,Equatorial Guinea
+October,24.588,0.523,Equatorial Guinea
+November,25.130,0.543,Equatorial Guinea
+December,25.273,0.589,Equatorial Guinea
+January,23.079,0.790,Eritrea
+February,23.982,0.767,Eritrea
+March,25.791,0.791,Eritrea
+April,27.592,0.795,Eritrea
+May,29.131,0.668,Eritrea
+June,29.744,0.741,Eritrea
+July,29.152,0.919,Eritrea
+August,28.755,0.944,Eritrea
+September,28.366,0.860,Eritrea
+October,27.034,0.754,Eritrea
+November,25.380,0.738,Eritrea
+December,23.555,0.799,Eritrea
+January,-6.662,1.973,Estonia
+February,-6.452,1.806,Estonia
+March,-2.973,1.600,Estonia
+April,3.470,1.541,Estonia
+May,10.089,1.419,Estonia
+June,14.997,1.451,Estonia
+July,17.445,1.482,Estonia
+August,16.077,1.456,Estonia
+September,11.267,1.377,Estonia
+October,5.206,1.490,Estonia
+November,-0.095,1.588,Estonia
+December,-4.414,1.795,Estonia
+January,21.939,0.691,Ethiopia
+February,23.079,0.695,Ethiopia
+March,24.131,0.681,Ethiopia
+April,24.287,0.645,Ethiopia
+May,24.332,0.616,Ethiopia
+June,23.745,0.649,Ethiopia
+July,22.817,0.697,Ethiopia
+August,22.750,0.709,Ethiopia
+September,23.126,0.704,Ethiopia
+October,22.541,0.680,Ethiopia
+November,21.918,0.661,Ethiopia
+December,21.464,0.688,Ethiopia
+January,-2.181,1.798,Europe
+February,-0.998,1.658,Europe
+March,2.199,1.440,Europe
+April,6.878,1.403,Europe
+May,12.023,1.271,Europe
+June,16.009,1.282,Europe
+July,18.230,1.306,Europe
+August,17.491,1.290,Europe
+September,13.558,1.223,Europe
+October,8.206,1.327,Europe
+November,3.246,1.451,Europe
+December,-0.607,1.590,Europe
+January,9.280,0.904,Falkland Islands (Islas Malvinas)
+February,9.434,0.921,Falkland Islands (Islas Malvinas)
+March,8.524,0.858,Falkland Islands (Islas Malvinas)
+April,6.640,0.804,Falkland Islands (Islas Malvinas)
+May,5.025,0.840,Falkland Islands (Islas Malvinas)
+June,3.646,0.962,Falkland Islands (Islas Malvinas)
+July,3.157,0.909,Falkland Islands (Islas Malvinas)
+August,3.203,0.912,Falkland Islands (Islas Malvinas)
+September,3.922,0.867,Falkland Islands (Islas Malvinas)
+October,5.160,0.791,Falkland Islands (Islas Malvinas)
+November,6.822,0.857,Falkland Islands (Islas Malvinas)
+December,8.087,0.911,Falkland Islands (Islas Malvinas)
+January,3.848,2.024,Faroe Islands
+February,3.767,1.912,Faroe Islands
+March,3.837,1.650,Faroe Islands
+April,4.955,1.599,Faroe Islands
+May,6.841,1.505,Faroe Islands
+June,8.820,1.507,Faroe Islands
+July,10.341,1.517,Faroe Islands
+August,10.686,1.458,Faroe Islands
+September,9.537,1.368,Faroe Islands
+October,7.169,1.510,Faroe Islands
+November,5.377,1.667,Faroe Islands
+December,4.299,1.818,Faroe Islands
+January,26.892,0.524,Federated States Of Micronesia
+February,26.959,0.524,Federated States Of Micronesia
+March,27.063,0.528,Federated States Of Micronesia
+April,26.977,0.521,Federated States Of Micronesia
+May,27.164,0.512,Federated States Of Micronesia
+June,27.072,0.520,Federated States Of Micronesia
+July,26.905,0.531,Federated States Of Micronesia
+August,26.899,0.530,Federated States Of Micronesia
+September,26.874,0.507,Federated States Of Micronesia
+October,26.734,0.527,Federated States Of Micronesia
+November,26.929,0.530,Federated States Of Micronesia
+December,26.864,0.526,Federated States Of Micronesia
+January,26.401,0.542,Fiji
+February,26.679,0.553,Fiji
+March,26.588,0.540,Fiji
+April,25.828,0.538,Fiji
+May,24.959,0.537,Fiji
+June,24.142,0.544,Fiji
+July,23.468,0.540,Fiji
+August,23.379,0.510,Fiji
+September,23.724,0.587,Fiji
+October,24.250,0.589,Fiji
+November,25.191,0.578,Fiji
+December,25.886,0.557,Fiji
+January,-11.137,1.992,Finland
+February,-10.706,1.895,Finland
+March,-6.822,1.697,Finland
+April,-0.474,1.609,Finland
+May,6.298,1.490,Finland
+June,12.479,1.524,Finland
+July,15.477,1.533,Finland
+August,13.377,1.522,Finland
+September,7.961,1.434,Finland
+October,1.521,1.544,Finland
+November,-4.097,1.659,Finland
+December,-8.816,1.837,Finland
+January,2.437,1.970,France (Europe)
+February,3.855,1.808,France (Europe)
+March,6.348,1.542,France (Europe)
+April,9.314,1.512,France (Europe)
+May,13.290,1.382,France (Europe)
+June,16.662,1.370,France (Europe)
+July,18.752,1.393,France (Europe)
+August,18.376,1.400,France (Europe)
+September,15.394,1.318,France (Europe)
+October,10.827,1.418,France (Europe)
+November,6.431,1.588,France (Europe)
+December,3.381,1.707,France (Europe)
+January,6.205,1.968,France
+February,7.401,1.825,France
+March,9.446,1.579,France
+April,11.889,1.554,France
+May,15.126,1.443,France
+June,17.857,1.433,France
+July,19.571,1.457,France
+August,19.292,1.455,France
+September,16.869,1.394,France
+October,13.127,1.484,France
+November,9.562,1.621,France
+December,6.983,1.728,France
+January,24.961,0.692,French Guiana
+February,25.009,0.649,French Guiana
+March,25.319,0.612,French Guiana
+April,25.452,0.619,French Guiana
+May,25.602,0.575,French Guiana
+June,25.538,0.548,French Guiana
+July,25.725,0.531,French Guiana
+August,26.169,0.511,French Guiana
+September,26.512,0.510,French Guiana
+October,26.532,0.516,French Guiana
+November,26.368,0.576,French Guiana
+December,25.462,0.659,French Guiana
+January,26.720,0.653,French Polynesia
+February,26.986,0.653,French Polynesia
+March,27.176,0.611,French Polynesia
+April,26.843,0.609,French Polynesia
+May,26.314,0.594,French Polynesia
+June,25.608,0.611,French Polynesia
+July,25.226,0.631,French Polynesia
+August,25.064,0.613,French Polynesia
+September,25.238,0.623,French Polynesia
+October,25.564,0.625,French Polynesia
+November,26.183,0.672,French Polynesia
+December,26.428,0.707,French Polynesia
+January,8.751,1.135,French Southern And Antarctic Lands
+February,8.206,0.957,French Southern And Antarctic Lands
+March,7.013,0.883,French Southern And Antarctic Lands
+April,5.747,1.118,French Southern And Antarctic Lands
+May,4.169,1.300,French Southern And Antarctic Lands
+June,2.815,1.171,French Southern And Antarctic Lands
+July,2.413,1.122,French Southern And Antarctic Lands
+August,2.406,1.282,French Southern And Antarctic Lands
+September,2.463,1.125,French Southern And Antarctic Lands
+October,3.184,0.982,French Southern And Antarctic Lands
+November,5.246,0.978,French Southern And Antarctic Lands
+December,7.615,1.121,French Southern And Antarctic Lands
+January,24.711,0.589,Gabon
+February,25.156,0.580,Gabon
+March,25.308,0.578,Gabon
+April,25.225,0.523,Gabon
+May,24.921,0.536,Gabon
+June,23.381,0.539,Gabon
+July,22.381,0.511,Gabon
+August,22.804,0.522,Gabon
+September,23.889,0.516,Gabon
+October,24.280,0.501,Gabon
+November,24.530,0.521,Gabon
+December,24.411,0.549,Gabon
+January,24.464,0.827,Gambia
+February,26.337,0.813,Gambia
+March,28.306,0.727,Gambia
+April,29.310,0.760,Gambia
+May,29.891,0.760,Gambia
+June,29.515,0.742,Gambia
+July,28.076,0.656,Gambia
+August,27.139,0.658,Gambia
+September,27.533,0.586,Gambia
+October,28.077,0.645,Gambia
+November,27.065,0.705,Gambia
+December,24.753,0.822,Gambia
+January,10.317,0.999,Gaza Strip
+February,11.426,0.973,Gaza Strip
+March,14.192,0.945,Gaza Strip
+April,17.650,0.902,Gaza Strip
+May,21.792,0.881,Gaza Strip
+June,25.016,0.893,Gaza Strip
+July,26.859,0.900,Gaza Strip
+August,27.064,0.900,Gaza Strip
+September,25.078,0.823,Gaza Strip
+October,21.873,0.920,Gaza Strip
+November,16.931,0.944,Gaza Strip
+December,12.183,1.034,Gaza Strip
+January,-2.815,1.432,Georgia
+February,-1.722,1.353,Georgia
+March,2.010,1.173,Georgia
+April,7.034,1.080,Georgia
+May,12.088,1.024,Georgia
+June,15.840,1.054,Georgia
+July,18.605,1.045,Georgia
+August,18.589,1.031,Georgia
+September,14.611,0.980,Georgia
+October,9.398,1.062,Georgia
+November,4.208,1.186,Georgia
+December,-0.622,1.372,Georgia
+January,-1.299,2.030,Germany
+February,0.157,1.870,Germany
+March,3.244,1.587,Germany
+April,7.566,1.541,Germany
+May,12.443,1.397,Germany
+June,15.719,1.403,Germany
+July,17.475,1.434,Germany
+August,17.002,1.413,Germany
+September,13.551,1.331,Germany
+October,8.413,1.461,Germany
+November,3.501,1.620,Germany
+December,0.138,1.764,Germany
+January,26.633,0.647,Ghana
+February,28.278,0.602,Ghana
+March,29.029,0.607,Ghana
+April,28.387,0.592,Ghana
+May,27.458,0.540,Ghana
+June,26.111,0.534,Ghana
+July,25.167,0.523,Ghana
+August,24.717,0.545,Ghana
+September,25.246,0.483,Ghana
+October,26.116,0.505,Ghana
+November,26.877,0.548,Ghana
+December,26.443,0.602,Ghana
+January,5.477,1.775,Greece
+February,6.574,1.659,Greece
+March,9.155,1.443,Greece
+April,12.926,1.466,Greece
+May,17.737,1.340,Greece
+June,22.002,1.333,Greece
+July,24.559,1.360,Greece
+August,24.260,1.327,Greece
+September,20.618,1.306,Greece
+October,15.821,1.399,Greece
+November,11.149,1.491,Greece
+December,7.099,1.640,Greece
+January,-30.594,2.234,Greenland
+February,-30.663,2.175,Greenland
+March,-28.913,2.017,Greenland
+April,-22.450,1.903,Greenland
+May,-12.075,1.640,Greenland
+June,-4.576,1.590,Greenland
+July,-1.690,1.579,Greenland
+August,-4.310,1.570,Greenland
+September,-11.532,1.569,Greenland
+October,-20.289,1.664,Greenland
+November,-26.391,1.803,Greenland
+December,-29.639,2.130,Greenland
+January,25.671,0.690,Grenada
+February,25.718,0.648,Grenada
+March,26.143,0.571,Grenada
+April,26.676,0.571,Grenada
+May,27.376,0.566,Grenada
+June,27.207,0.492,Grenada
+July,27.183,0.509,Grenada
+August,27.391,0.502,Grenada
+September,27.496,0.523,Grenada
+October,27.152,0.494,Grenada
+November,26.834,0.559,Grenada
+December,26.068,0.654,Grenada
+January,24.717,0.697,Guadeloupe
+February,24.703,0.643,Guadeloupe
+March,25.132,0.584,Guadeloupe
+April,25.756,0.605,Guadeloupe
+May,26.816,0.591,Guadeloupe
+June,27.427,0.543,Guadeloupe
+July,27.632,0.549,Guadeloupe
+August,27.709,0.525,Guadeloupe
+September,27.452,0.529,Guadeloupe
+October,26.949,0.506,Guadeloupe
+November,26.378,0.569,Guadeloupe
+December,25.310,0.672,Guadeloupe
+January,26.137,0.544,Guam
+February,26.125,0.561,Guam
+March,26.506,0.530,Guam
+April,27.025,0.546,Guam
+May,27.567,0.539,Guam
+June,27.774,0.560,Guam
+July,27.483,0.565,Guam
+August,27.227,0.534,Guam
+September,27.165,0.543,Guam
+October,27.068,0.512,Guam
+November,27.222,0.541,Guam
+December,26.665,0.531,Guam
+January,20.708,0.862,Guatemala
+February,21.577,0.846,Guatemala
+March,23.087,0.819,Guatemala
+April,24.445,0.828,Guatemala
+May,25.133,0.729,Guatemala
+June,24.598,0.733,Guatemala
+July,24.167,0.716,Guatemala
+August,24.189,0.699,Guatemala
+September,23.896,0.684,Guatemala
+October,22.910,0.698,Guatemala
+November,21.824,0.764,Guatemala
+December,20.802,0.875,Guatemala
+January,6.261,1.938,Guernsey
+February,6.311,1.798,Guernsey
+March,7.175,1.539,Guernsey
+April,8.754,1.523,Guernsey
+May,11.383,1.406,Guernsey
+June,13.950,1.417,Guernsey
+July,16.004,1.418,Guernsey
+August,16.492,1.427,Guernsey
+September,15.140,1.335,Guernsey
+October,12.410,1.427,Guernsey
+November,9.714,1.598,Guernsey
+December,7.622,1.720,Guernsey
+January,24.757,0.850,Guinea Bissau
+February,26.453,0.798,Guinea Bissau
+March,28.052,0.724,Guinea Bissau
+April,28.692,0.741,Guinea Bissau
+May,28.807,0.738,Guinea Bissau
+June,27.917,0.703,Guinea Bissau
+July,26.472,0.666,Guinea Bissau
+August,25.776,0.653,Guinea Bissau
+September,26.278,0.574,Guinea Bissau
+October,26.811,0.629,Guinea Bissau
+November,26.401,0.693,Guinea Bissau
+December,24.742,0.821,Guinea Bissau
+January,23.936,0.795,Guinea
+February,26.078,0.743,Guinea
+March,27.852,0.686,Guinea
+April,28.150,0.679,Guinea
+May,27.386,0.642,Guinea
+June,25.728,0.651,Guinea
+July,24.441,0.636,Guinea
+August,24.004,0.619,Guinea
+September,24.515,0.554,Guinea
+October,24.950,0.600,Guinea
+November,24.798,0.660,Guinea
+December,23.626,0.760,Guinea
+January,25.306,0.704,Guyana
+February,25.609,0.650,Guyana
+March,26.040,0.601,Guyana
+April,26.009,0.619,Guyana
+May,25.852,0.586,Guyana
+June,25.377,0.534,Guyana
+July,25.407,0.541,Guyana
+August,25.982,0.532,Guyana
+September,26.634,0.535,Guyana
+October,26.739,0.543,Guyana
+November,26.582,0.601,Guyana
+December,25.648,0.699,Guyana
+January,24.575,0.851,Haiti
+February,24.718,0.804,Haiti
+March,25.140,0.731,Haiti
+April,25.531,0.746,Haiti
+May,26.396,0.688,Haiti
+June,27.501,0.688,Haiti
+July,28.176,0.696,Haiti
+August,28.014,0.658,Haiti
+September,27.452,0.643,Haiti
+October,26.769,0.675,Haiti
+November,26.194,0.779,Haiti
+December,25.112,0.905,Haiti
+January,5.353,1.060,Heard Island And Mcdonald Islands
+February,4.951,0.912,Heard Island And Mcdonald Islands
+March,4.190,0.902,Heard Island And Mcdonald Islands
+April,3.425,1.145,Heard Island And Mcdonald Islands
+May,2.403,1.339,Heard Island And Mcdonald Islands
+June,1.281,1.195,Heard Island And Mcdonald Islands
+July,0.684,1.216,Heard Island And Mcdonald Islands
+August,0.528,1.327,Heard Island And Mcdonald Islands
+September,0.347,1.138,Heard Island And Mcdonald Islands
+October,0.800,1.027,Heard Island And Mcdonald Islands
+November,2.518,0.942,Heard Island And Mcdonald Islands
+December,4.414,1.064,Heard Island And Mcdonald Islands
+January,22.763,0.860,Honduras
+February,23.778,0.842,Honduras
+March,25.297,0.806,Honduras
+April,26.441,0.811,Honduras
+May,26.617,0.699,Honduras
+June,25.690,0.716,Honduras
+July,25.230,0.705,Honduras
+August,25.370,0.704,Honduras
+September,25.215,0.693,Honduras
+October,24.180,0.700,Honduras
+November,23.221,0.752,Honduras
+December,22.538,0.869,Honduras
+January,15.563,0.894,Hong Kong
+February,15.868,0.968,Hong Kong
+March,18.342,0.853,Hong Kong
+April,21.958,0.819,Hong Kong
+May,25.645,0.732,Hong Kong
+June,27.535,0.706,Hong Kong
+July,28.366,0.692,Hong Kong
+August,28.195,0.669,Hong Kong
+September,27.343,0.640,Hong Kong
+October,24.737,0.715,Hong Kong
+November,21.082,0.754,Hong Kong
+December,17.285,0.825,Hong Kong
+January,-2.392,2.043,Hungary
+February,-0.223,1.875,Hungary
+March,4.458,1.560,Hungary
+April,10.200,1.539,Hungary
+May,15.580,1.426,Hungary
+June,18.918,1.396,Hungary
+July,20.708,1.433,Hungary
+August,19.991,1.399,Hungary
+September,15.743,1.360,Hungary
+October,10.010,1.457,Hungary
+November,4.230,1.586,Hungary
+December,-0.466,1.796,Hungary
+January,-3.598,2.099,Iceland
+February,-3.352,1.999,Iceland
+March,-2.841,1.837,Iceland
+April,-0.601,1.743,Iceland
+May,3.167,1.637,Iceland
+June,6.762,1.595,Iceland
+July,8.599,1.611,Iceland
+August,7.854,1.567,Iceland
+September,4.949,1.509,Iceland
+October,0.945,1.614,Iceland
+November,-1.698,1.761,Iceland
+December,-3.262,1.901,Iceland
+January,16.839,0.882,India
+February,19.273,0.835,India
+March,23.670,0.792,India
+April,27.489,0.742,India
+May,29.774,0.702,India
+June,28.989,0.728,India
+July,26.905,0.700,India
+August,26.117,0.677,India
+September,25.794,0.656,India
+October,24.012,0.719,India
+November,20.491,0.812,India
+December,17.224,0.854,India
+January,25.526,0.506,Indonesia
+February,25.644,0.468,Indonesia
+March,25.820,0.445,Indonesia
+April,25.866,0.455,Indonesia
+May,26.044,0.410,Indonesia
+June,25.736,0.424,Indonesia
+July,25.431,0.447,Indonesia
+August,25.471,0.443,Indonesia
+September,25.651,0.415,Indonesia
+October,25.732,0.425,Indonesia
+November,25.774,0.450,Indonesia
+December,25.523,0.482,Indonesia
+January,4.955,0.922,Iran
+February,7.320,0.860,Iran
+March,11.930,0.846,Iran
+April,17.223,0.851,Iran
+May,22.900,0.829,Iran
+June,27.304,0.843,Iran
+July,29.465,0.864,Iran
+August,28.257,0.852,Iran
+September,24.201,0.794,Iran
+October,18.501,0.789,Iran
+November,12.222,0.841,Iran
+December,6.888,0.876,Iran
+January,8.515,1.081,Iraq
+February,10.798,1.048,Iraq
+March,15.241,1.041,Iraq
+April,20.807,1.013,Iraq
+May,27.154,0.948,Iraq
+June,31.695,1.008,Iraq
+July,34.047,1.044,Iraq
+August,33.635,1.017,Iraq
+September,29.798,0.945,Iraq
+October,23.560,0.993,Iraq
+November,16.042,1.015,Iraq
+December,10.167,1.100,Iraq
+January,4.807,1.862,Ireland
+February,5.372,1.738,Ireland
+March,6.320,1.513,Ireland
+April,8.070,1.500,Ireland
+May,10.776,1.388,Ireland
+June,13.437,1.417,Ireland
+July,14.914,1.396,Ireland
+August,14.653,1.402,Ireland
+September,12.742,1.322,Ireland
+October,9.674,1.426,Ireland
+November,6.961,1.563,Ireland
+December,5.363,1.703,Ireland
+January,5.415,1.977,Isle Of Man
+February,5.083,1.823,Isle Of Man
+March,5.527,1.564,Isle Of Man
+April,7.062,1.552,Isle Of Man
+May,9.602,1.426,Isle Of Man
+June,12.198,1.475,Isle Of Man
+July,14.093,1.453,Isle Of Man
+August,14.466,1.445,Isle Of Man
+September,13.154,1.338,Isle Of Man
+October,10.677,1.454,Isle Of Man
+November,8.422,1.635,Isle Of Man
+December,6.763,1.778,Isle Of Man
+January,11.010,0.967,Israel
+February,12.119,0.943,Israel
+March,14.834,0.913,Israel
+April,18.204,0.886,Israel
+May,22.191,0.858,Israel
+June,25.241,0.874,Israel
+July,26.990,0.884,Israel
+August,27.212,0.879,Israel
+September,25.280,0.808,Israel
+October,22.181,0.899,Israel
+November,17.422,0.918,Israel
+December,12.798,1.006,Israel
+January,4.006,1.905,Italy
+February,5.155,1.753,Italy
+March,7.709,1.475,Italy
+April,10.905,1.462,Italy
+May,15.393,1.325,Italy
+June,19.393,1.325,Italy
+July,22.024,1.362,Italy
+August,21.797,1.318,Italy
+September,18.457,1.251,Italy
+October,13.719,1.365,Italy
+November,9.026,1.513,Italy
+December,5.354,1.657,Italy
+January,24.535,0.955,Jamaica
+February,24.625,0.888,Jamaica
+March,25.091,0.787,Jamaica
+April,25.666,0.826,Jamaica
+May,26.506,0.733,Jamaica
+June,27.171,0.728,Jamaica
+July,27.573,0.711,Jamaica
+August,27.473,0.683,Jamaica
+September,27.160,0.698,Jamaica
+October,26.472,0.735,Jamaica
+November,25.916,0.824,Jamaica
+December,24.994,0.981,Jamaica
+January,0.632,0.712,Japan
+February,1.094,0.661,Japan
+March,4.436,0.604,Japan
+April,9.902,0.592,Japan
+May,14.593,0.559,Japan
+June,18.657,0.590,Japan
+July,22.857,0.588,Japan
+August,24.243,0.594,Japan
+September,20.484,0.532,Japan
+October,14.436,0.533,Japan
+November,8.718,0.573,Japan
+December,3.366,0.674,Japan
+January,6.261,1.938,Jersey
+February,6.311,1.798,Jersey
+March,7.175,1.539,Jersey
+April,8.754,1.523,Jersey
+May,11.383,1.406,Jersey
+June,13.950,1.417,Jersey
+July,16.004,1.418,Jersey
+August,16.492,1.427,Jersey
+September,15.140,1.335,Jersey
+October,12.410,1.427,Jersey
+November,9.714,1.598,Jersey
+December,7.622,1.720,Jersey
+January,8.844,1.011,Jordan
+February,10.618,0.999,Jordan
+March,14.217,0.978,Jordan
+April,18.563,0.946,Jordan
+May,23.262,0.909,Jordan
+June,26.575,0.936,Jordan
+July,28.326,0.949,Jordan
+August,28.336,0.950,Jordan
+September,25.794,0.872,Jordan
+October,21.544,0.956,Jordan
+November,15.610,0.971,Jordan
+December,10.464,1.057,Jordan
+January,-13.656,1.372,Kazakhstan
+February,-12.246,1.321,Kazakhstan
+March,-4.731,1.303,Kazakhstan
+April,6.793,1.254,Kazakhstan
+May,15.447,1.154,Kazakhstan
+June,20.762,1.179,Kazakhstan
+July,23.076,1.177,Kazakhstan
+August,20.970,1.157,Kazakhstan
+September,14.259,1.147,Kazakhstan
+October,5.358,1.154,Kazakhstan
+November,-3.329,1.284,Kazakhstan
+December,-10.459,1.378,Kazakhstan
+January,24.555,0.588,Kenya
+February,25.329,0.593,Kenya
+March,25.697,0.544,Kenya
+April,24.869,0.554,Kenya
+May,24.187,0.504,Kenya
+June,23.250,0.499,Kenya
+July,22.564,0.467,Kenya
+August,22.830,0.489,Kenya
+September,23.736,0.500,Kenya
+October,24.134,0.531,Kenya
+November,24.077,0.518,Kenya
+December,24.014,0.564,Kenya
+January,26.600,0.720,Kingman Reef
+February,26.679,0.760,Kingman Reef
+March,26.936,0.710,Kingman Reef
+April,27.057,0.674,Kingman Reef
+May,27.235,0.657,Kingman Reef
+June,27.269,0.665,Kingman Reef
+July,27.492,0.654,Kingman Reef
+August,27.635,0.634,Kingman Reef
+September,27.476,0.653,Kingman Reef
+October,27.227,0.685,Kingman Reef
+November,27.184,0.687,Kingman Reef
+December,26.808,0.722,Kingman Reef
+January,25.978,0.784,Kiribati
+February,26.186,0.777,Kiribati
+March,26.473,0.757,Kiribati
+April,26.628,0.702,Kiribati
+May,27.060,0.689,Kiribati
+June,27.221,0.688,Kiribati
+July,27.255,0.685,Kiribati
+August,27.187,0.677,Kiribati
+September,27.086,0.701,Kiribati
+October,26.918,0.753,Kiribati
+November,26.710,0.735,Kiribati
+December,26.143,0.789,Kiribati
+January,12.598,1.020,Kuwait
+February,14.728,0.986,Kuwait
+March,19.082,0.962,Kuwait
+April,24.437,0.977,Kuwait
+May,30.531,0.975,Kuwait
+June,34.440,1.027,Kuwait
+July,36.114,1.020,Kuwait
+August,35.588,1.027,Kuwait
+September,32.387,0.974,Kuwait
+October,26.996,0.966,Kuwait
+November,20.118,0.970,Kuwait
+December,14.268,1.003,Kuwait
+January,-12.541,1.432,Kyrgyzstan
+February,-9.727,1.401,Kyrgyzstan
+March,-2.604,1.350,Kyrgyzstan
+April,5.134,1.125,Kyrgyzstan
+May,10.372,1.013,Kyrgyzstan
+June,14.404,1.053,Kyrgyzstan
+July,16.794,1.059,Kyrgyzstan
+August,15.737,1.068,Kyrgyzstan
+September,10.868,1.037,Kyrgyzstan
+October,3.838,1.045,Kyrgyzstan
+November,-3.660,1.169,Kyrgyzstan
+December,-10.031,1.409,Kyrgyzstan
+January,18.652,0.880,Laos
+February,20.127,0.892,Laos
+March,22.719,0.848,Laos
+April,25.200,0.830,Laos
+May,26.705,0.698,Laos
+June,27.030,0.726,Laos
+July,26.645,0.713,Laos
+August,26.188,0.696,Laos
+September,25.399,0.655,Laos
+October,23.728,0.712,Laos
+November,21.392,0.773,Laos
+December,18.908,0.817,Laos
+January,-6.345,1.982,Latvia
+February,-5.609,1.819,Latvia
+March,-1.966,1.612,Latvia
+April,4.582,1.545,Latvia
+May,11.093,1.419,Latvia
+June,15.549,1.449,Latvia
+July,17.640,1.493,Latvia
+August,16.328,1.453,Latvia
+September,11.543,1.384,Latvia
+October,5.452,1.488,Latvia
+November,0.022,1.587,Latvia
+December,-4.335,1.793,Latvia
+January,8.648,1.031,Lebanon
+February,9.681,0.990,Lebanon
+March,12.432,0.953,Lebanon
+April,15.913,0.927,Lebanon
+May,20.113,0.903,Lebanon
+June,23.517,0.908,Lebanon
+July,25.608,0.911,Lebanon
+August,25.904,0.902,Lebanon
+September,23.760,0.825,Lebanon
+October,20.240,0.932,Lebanon
+November,15.244,0.982,Lebanon
+December,10.549,1.071,Lebanon
+January,19.149,0.720,Lesotho
+February,18.752,0.706,Lesotho
+March,16.901,0.670,Lesotho
+April,13.453,0.659,Lesotho
+May,9.936,0.682,Lesotho
+June,7.108,0.714,Lesotho
+July,7.095,0.711,Lesotho
+August,9.572,0.699,Lesotho
+September,12.773,0.699,Lesotho
+October,14.984,0.667,Lesotho
+November,16.745,0.702,Lesotho
+December,18.277,0.733,Lesotho
+January,25.195,0.793,Liberia
+February,26.284,0.716,Liberia
+March,26.755,0.679,Liberia
+April,26.452,0.659,Liberia
+May,26.071,0.617,Liberia
+June,25.163,0.646,Liberia
+July,24.332,0.634,Liberia
+August,24.050,0.626,Liberia
+September,24.638,0.578,Liberia
+October,25.138,0.604,Liberia
+November,25.482,0.635,Liberia
+December,24.992,0.736,Liberia
+January,12.368,1.378,Libya
+February,14.400,1.305,Libya
+March,18.152,1.248,Libya
+April,22.641,1.240,Libya
+May,26.857,1.234,Libya
+June,29.585,1.234,Libya
+July,30.148,1.236,Libya
+August,29.748,1.208,Libya
+September,27.863,1.214,Libya
+October,23.793,1.242,Libya
+November,18.156,1.308,Libya
+December,13.374,1.338,Libya
+January,-5.134,2.240,Liechtenstein
+February,-3.477,2.065,Liechtenstein
+March,-0.060,1.684,Liechtenstein
+April,4.148,1.623,Liechtenstein
+May,9.028,1.463,Liechtenstein
+June,12.299,1.440,Liechtenstein
+July,14.058,1.464,Liechtenstein
+August,13.486,1.438,Liechtenstein
+September,10.204,1.390,Liechtenstein
+October,5.174,1.551,Liechtenstein
+November,-0.044,1.732,Liechtenstein
+December,-3.886,1.977,Liechtenstein
+January,-5.627,2.000,Lithuania
+February,-4.842,1.846,Lithuania
+March,-1.166,1.627,Lithuania
+April,5.415,1.546,Lithuania
+May,11.694,1.415,Lithuania
+June,15.632,1.429,Lithuania
+July,17.558,1.487,Lithuania
+August,16.549,1.450,Lithuania
+September,12.031,1.389,Lithuania
+October,6.185,1.483,Lithuania
+November,0.958,1.590,Lithuania
+December,-3.385,1.795,Lithuania
+January,0.434,2.080,Luxembourg
+February,1.896,1.902,Luxembourg
+March,4.780,1.619,Luxembourg
+April,8.499,1.572,Luxembourg
+May,12.938,1.452,Luxembourg
+June,16.112,1.429,Luxembourg
+July,17.900,1.467,Luxembourg
+August,17.383,1.463,Luxembourg
+September,14.174,1.370,Luxembourg
+October,9.391,1.492,Luxembourg
+November,4.847,1.668,Luxembourg
+December,1.703,1.808,Luxembourg
+January,14.902,0.942,Macau
+February,15.240,1.017,Macau
+March,17.914,0.891,Macau
+April,21.794,0.855,Macau
+May,25.711,0.760,Macau
+June,27.647,0.733,Macau
+July,28.454,0.714,Macau
+August,28.255,0.690,Macau
+September,27.315,0.663,Macau
+October,24.521,0.743,Macau
+November,20.616,0.783,Macau
+December,16.649,0.867,Macau
+January,-1.051,1.979,Macedonia
+February,1.003,1.839,Macedonia
+March,5.107,1.553,Macedonia
+April,9.903,1.554,Macedonia
+May,14.899,1.424,Macedonia
+June,18.787,1.406,Macedonia
+July,21.197,1.440,Macedonia
+August,20.806,1.403,Macedonia
+September,16.680,1.369,Macedonia
+October,11.110,1.473,Macedonia
+November,5.474,1.604,Macedonia
+December,0.687,1.811,Macedonia
+January,24.978,0.724,Madagascar
+February,24.900,0.614,Madagascar
+March,24.702,0.599,Madagascar
+April,23.557,0.585,Madagascar
+May,21.748,0.598,Madagascar
+June,19.894,0.606,Madagascar
+July,19.319,0.631,Madagascar
+August,20.004,0.631,Madagascar
+September,21.526,0.636,Madagascar
+October,23.116,0.688,Madagascar
+November,24.570,0.667,Madagascar
+December,24.864,0.664,Madagascar
+January,22.779,0.573,Malawi
+February,22.769,0.549,Malawi
+March,22.680,0.478,Malawi
+April,21.609,0.512,Malawi
+May,19.931,0.487,Malawi
+June,18.063,0.526,Malawi
+July,17.593,0.510,Malawi
+August,18.978,0.527,Malawi
+September,21.538,0.501,Malawi
+October,23.655,0.518,Malawi
+November,24.324,0.568,Malawi
+December,23.291,0.591,Malawi
+January,25.179,0.606,Malaysia
+February,25.532,0.544,Malaysia
+March,25.988,0.527,Malaysia
+April,26.229,0.515,Malaysia
+May,26.447,0.464,Malaysia
+June,26.255,0.475,Malaysia
+July,26.062,0.482,Malaysia
+August,26.026,0.486,Malaysia
+September,25.839,0.448,Malaysia
+October,25.569,0.457,Malaysia
+November,25.442,0.496,Malaysia
+December,25.088,0.562,Malaysia
+January,21.007,0.805,Mali
+February,23.879,0.809,Mali
+March,27.547,0.755,Mali
+April,30.797,0.773,Mali
+May,33.250,0.747,Mali
+June,33.499,0.793,Mali
+July,31.990,0.763,Mali
+August,30.725,0.778,Mali
+September,30.849,0.799,Mali
+October,29.798,0.721,Mali
+November,26.077,0.753,Mali
+December,21.799,0.801,Mali
+January,12.427,1.801,Malta
+February,12.449,1.648,Malta
+March,13.418,1.409,Malta
+April,15.256,1.433,Malta
+May,18.716,1.314,Malta
+June,22.467,1.321,Malta
+July,25.231,1.402,Malta
+August,25.854,1.307,Malta
+September,24.028,1.242,Malta
+October,20.801,1.390,Malta
+November,17.335,1.514,Malta
+December,13.965,1.617,Malta
+January,24.596,0.719,Martinique
+February,24.565,0.662,Martinique
+March,24.988,0.602,Martinique
+April,25.621,0.617,Martinique
+May,26.700,0.603,Martinique
+June,27.155,0.544,Martinique
+July,27.231,0.541,Martinique
+August,27.265,0.529,Martinique
+September,27.098,0.539,Martinique
+October,26.704,0.508,Martinique
+November,26.229,0.569,Martinique
+December,25.194,0.678,Martinique
+January,19.464,0.877,Mauritania
+February,22.057,0.871,Mauritania
+March,25.281,0.879,Mauritania
+April,28.132,0.852,Mauritania
+May,31.213,0.871,Mauritania
+June,33.164,0.863,Mauritania
+July,33.148,0.831,Mauritania
+August,32.373,0.828,Mauritania
+September,31.745,0.816,Mauritania
+October,29.529,0.793,Mauritania
+November,25.023,0.824,Mauritania
+December,20.298,0.905,Mauritania
+January,26.062,0.898,Mauritius
+February,26.194,0.730,Mauritius
+March,25.876,0.687,Mauritius
+April,24.799,0.691,Mauritius
+May,23.325,0.717,Mauritius
+June,21.771,0.712,Mauritius
+July,20.995,0.724,Mauritius
+August,20.795,0.707,Mauritius
+September,21.313,0.691,Mauritius
+October,22.199,0.765,Mauritius
+November,23.870,0.735,Mauritius
+December,25.209,0.862,Mauritius
+January,26.868,0.716,Mayotte
+February,26.955,0.614,Mayotte
+March,27.366,0.564,Mayotte
+April,27.362,0.574,Mayotte
+May,26.855,0.594,Mayotte
+June,25.743,0.578,Mayotte
+July,25.023,0.586,Mayotte
+August,24.908,0.579,Mayotte
+September,25.333,0.600,Mayotte
+October,26.005,0.622,Mayotte
+November,26.850,0.644,Mayotte
+December,26.896,0.649,Mayotte
+January,14.926,0.734,Mexico
+February,16.334,0.682,Mexico
+March,18.615,0.658,Mexico
+April,21.091,0.625,Mexico
+May,23.465,0.623,Mexico
+June,24.983,0.607,Mexico
+July,24.965,0.609,Mexico
+August,24.738,0.593,Mexico
+September,23.546,0.566,Mexico
+October,20.975,0.601,Mexico
+November,17.828,0.648,Mexico
+December,15.302,0.713,Mexico
+January,-4.182,1.926,Moldova
+February,-2.599,1.802,Moldova
+March,2.099,1.610,Moldova
+April,8.953,1.555,Moldova
+May,15.423,1.429,Moldova
+June,19.293,1.435,Moldova
+July,21.224,1.482,Moldova
+August,20.393,1.445,Moldova
+September,15.587,1.417,Moldova
+October,9.414,1.506,Moldova
+November,3.456,1.601,Moldova
+December,-1.772,1.835,Moldova
+January,-0.210,2.067,Monaco
+February,1.597,1.893,Monaco
+March,4.657,1.586,Monaco
+April,7.833,1.547,Monaco
+May,12.140,1.414,Monaco
+June,16.161,1.402,Monaco
+July,18.842,1.430,Monaco
+August,18.307,1.403,Monaco
+September,14.593,1.334,Monaco
+October,9.321,1.447,Monaco
+November,4.347,1.629,Monaco
+December,0.789,1.767,Monaco
+January,-22.010,1.504,Mongolia
+February,-18.067,1.488,Mongolia
+March,-8.992,1.318,Mongolia
+April,1.554,1.220,Mongolia
+May,9.535,1.148,Mongolia
+June,15.641,1.172,Mongolia
+July,18.194,1.132,Mongolia
+August,15.855,1.131,Mongolia
+September,8.984,1.117,Mongolia
+October,-0.050,1.147,Mongolia
+November,-11.111,1.322,Mongolia
+December,-19.461,1.519,Mongolia
+January,-0.634,2.010,Montenegro
+February,1.193,1.861,Montenegro
+March,4.985,1.538,Montenegro
+April,9.549,1.533,Montenegro
+May,14.564,1.407,Montenegro
+June,18.411,1.391,Montenegro
+July,20.763,1.430,Montenegro
+August,20.305,1.404,Montenegro
+September,16.214,1.351,Montenegro
+October,10.832,1.462,Montenegro
+November,5.464,1.605,Montenegro
+December,1.023,1.808,Montenegro
+January,24.740,0.700,Montserrat
+February,24.732,0.647,Montserrat
+March,25.173,0.589,Montserrat
+April,25.792,0.611,Montserrat
+May,26.837,0.596,Montserrat
+June,27.485,0.550,Montserrat
+July,27.740,0.558,Montserrat
+August,27.817,0.531,Montserrat
+September,27.542,0.535,Montserrat
+October,27.010,0.513,Montserrat
+November,26.422,0.578,Montserrat
+December,25.332,0.679,Montserrat
+January,9.612,1.313,Morocco
+February,11.446,1.267,Morocco
+March,14.021,1.189,Morocco
+April,16.095,1.131,Morocco
+May,19.221,1.103,Morocco
+June,23.184,1.163,Morocco
+July,26.341,1.175,Morocco
+August,26.231,1.120,Morocco
+September,22.952,1.077,Morocco
+October,18.324,1.117,Morocco
+November,13.841,1.193,Morocco
+December,10.202,1.236,Morocco
+January,25.753,0.514,Mozambique
+February,25.630,0.488,Mozambique
+March,25.231,0.442,Mozambique
+April,23.841,0.460,Mozambique
+May,21.901,0.429,Mozambique
+June,20.002,0.470,Mozambique
+July,19.623,0.455,Mozambique
+August,20.948,0.479,Mozambique
+September,23.185,0.473,Mozambique
+October,25.075,0.452,Mozambique
+November,26.114,0.509,Mozambique
+December,25.903,0.509,Mozambique
+January,24.111,0.900,Namibia
+February,23.641,0.896,Namibia
+March,22.835,0.889,Namibia
+April,20.753,0.903,Namibia
+May,17.832,0.935,Namibia
+June,15.114,0.893,Namibia
+July,14.832,0.903,Namibia
+August,16.902,0.860,Namibia
+September,19.981,0.815,Namibia
+October,22.313,0.808,Namibia
+November,23.531,0.820,Namibia
+December,24.046,0.926,Namibia
+January,5.634,1.078,Nepal
+February,7.794,1.040,Nepal
+March,12.452,0.982,Nepal
+April,16.822,0.939,Nepal
+May,19.875,0.901,Nepal
+June,21.306,0.949,Nepal
+July,20.923,0.868,Nepal
+August,20.450,0.831,Nepal
+September,19.130,0.826,Nepal
+October,15.609,0.908,Nepal
+November,10.840,1.011,Nepal
+December,6.702,1.023,Nepal
+January,1.310,2.087,Netherlands (Europe)
+February,2.311,1.898,Netherlands (Europe)
+March,4.548,1.625,Netherlands (Europe)
+April,7.920,1.578,Netherlands (Europe)
+May,12.131,1.449,Netherlands (Europe)
+June,15.211,1.454,Netherlands (Europe)
+July,17.023,1.472,Netherlands (Europe)
+August,16.864,1.464,Netherlands (Europe)
+September,14.190,1.363,Netherlands (Europe)
+October,9.815,1.512,Netherlands (Europe)
+November,5.522,1.687,Netherlands (Europe)
+December,2.589,1.813,Netherlands (Europe)
+January,1.830,2.079,Netherlands
+February,2.818,1.894,Netherlands
+March,5.009,1.625,Netherlands
+April,8.328,1.580,Netherlands
+May,12.472,1.453,Netherlands
+June,15.495,1.458,Netherlands
+July,17.273,1.477,Netherlands
+August,17.115,1.469,Netherlands
+September,14.501,1.371,Netherlands
+October,10.204,1.517,Netherlands
+November,5.991,1.687,Netherlands
+December,3.098,1.809,Netherlands
+January,25.243,0.747,New Caledonia
+February,25.635,0.738,New Caledonia
+March,25.161,0.680,New Caledonia
+April,23.745,0.680,New Caledonia
+May,22.321,0.649,New Caledonia
+June,21.111,0.679,New Caledonia
+July,20.132,0.675,New Caledonia
+August,19.835,0.674,New Caledonia
+September,20.468,0.637,New Caledonia
+October,21.531,0.689,New Caledonia
+November,22.987,0.710,New Caledonia
+December,24.192,0.745,New Caledonia
+January,14.947,0.683,New Zealand
+February,15.040,0.669,New Zealand
+March,13.664,0.562,New Zealand
+April,10.993,0.582,New Zealand
+May,8.253,0.556,New Zealand
+June,6.008,0.572,New Zealand
+July,5.384,0.517,New Zealand
+August,6.382,0.504,New Zealand
+September,8.288,0.508,New Zealand
+October,10.017,0.542,New Zealand
+November,11.805,0.600,New Zealand
+December,13.689,0.676,New Zealand
+January,24.711,0.816,Nicaragua
+February,25.294,0.779,Nicaragua
+March,26.467,0.761,Nicaragua
+April,27.346,0.775,Nicaragua
+May,27.378,0.674,Nicaragua
+June,26.462,0.669,Nicaragua
+July,26.136,0.683,Nicaragua
+August,26.255,0.684,Nicaragua
+September,26.131,0.668,Nicaragua
+October,25.509,0.657,Nicaragua
+November,25.115,0.707,Nicaragua
+December,24.685,0.828,Nicaragua
+January,19.291,0.905,Niger
+February,22.022,0.876,Niger
+March,26.340,0.852,Niger
+April,30.433,0.875,Niger
+May,32.807,0.857,Niger
+June,32.934,0.834,Niger
+July,31.481,0.829,Niger
+August,30.404,0.828,Niger
+September,30.407,0.839,Niger
+October,28.642,0.906,Niger
+November,24.411,0.868,Niger
+December,20.265,0.912,Niger
+January,24.480,0.650,Nigeria
+February,26.772,0.621,Nigeria
+March,29.054,0.640,Nigeria
+April,29.677,0.586,Nigeria
+May,28.940,0.530,Nigeria
+June,27.406,0.551,Nigeria
+July,25.961,0.560,Nigeria
+August,25.317,0.524,Nigeria
+September,25.942,0.528,Nigeria
+October,26.562,0.558,Nigeria
+November,26.156,0.584,Nigeria
+December,24.570,0.664,Nigeria
+January,26.357,0.607,Niue
+February,26.717,0.649,Niue
+March,26.662,0.610,Niue
+April,25.906,0.608,Niue
+May,25.023,0.624,Niue
+June,24.127,0.625,Niue
+July,23.544,0.634,Niue
+August,23.509,0.594,Niue
+September,23.925,0.635,Niue
+October,24.389,0.603,Niue
+November,25.200,0.643,Niue
+December,25.802,0.641,Niue
+January,-11.825,1.001,North America
+February,-10.160,0.925,North America
+March,-5.868,0.867,North America
+April,0.845,0.771,North America
+May,7.953,0.750,North America
+June,13.535,0.751,North America
+July,16.280,0.713,North America
+August,14.963,0.720,North America
+September,10.030,0.693,North America
+October,3.119,0.787,North America
+November,-4.092,0.873,North America
+December,-9.809,0.974,North America
+January,-9.930,0.974,North Korea
+February,-7.029,0.915,North Korea
+March,-0.635,0.820,North Korea
+April,6.786,0.782,North Korea
+May,12.644,0.725,North Korea
+June,17.361,0.756,North Korea
+July,21.152,0.736,North Korea
+August,21.364,0.681,North Korea
+September,16.074,0.645,North Korea
+October,9.066,0.677,North Korea
+November,0.936,0.785,North Korea
+December,-6.853,0.958,North Korea
+January,26.137,0.544,Northern Mariana Islands
+February,26.125,0.561,Northern Mariana Islands
+March,26.506,0.530,Northern Mariana Islands
+April,27.025,0.546,Northern Mariana Islands
+May,27.567,0.539,Northern Mariana Islands
+June,27.774,0.560,Northern Mariana Islands
+July,27.483,0.565,Northern Mariana Islands
+August,27.227,0.534,Northern Mariana Islands
+September,27.165,0.543,Northern Mariana Islands
+October,27.068,0.512,Northern Mariana Islands
+November,27.222,0.541,Northern Mariana Islands
+December,26.665,0.531,Northern Mariana Islands
+January,-8.785,2.169,Norway
+February,-8.369,2.033,Norway
+March,-6.287,1.791,Norway
+April,-2.003,1.723,Norway
+May,3.451,1.594,Norway
+June,8.363,1.634,Norway
+July,11.014,1.642,Norway
+August,9.889,1.606,Norway
+September,5.751,1.528,Norway
+October,0.194,1.642,Norway
+November,-4.391,1.798,Norway
+December,-7.578,1.930,Norway
+January,27.238,0.528,Oceania
+February,26.745,0.514,Oceania
+March,25.042,0.466,Oceania
+April,21.692,0.453,Oceania
+May,18.051,0.451,Oceania
+June,15.227,0.455,Oceania
+July,14.492,0.449,Oceania
+August,16.228,0.450,Oceania
+September,19.241,0.436,Oceania
+October,22.257,0.451,Oceania
+November,24.931,0.482,Oceania
+December,26.460,0.521,Oceania
+January,19.523,0.763,Oman
+February,21.019,0.746,Oman
+March,24.270,0.760,Oman
+April,27.866,0.747,Oman
+May,31.375,0.774,Oman
+June,33.055,0.864,Oman
+July,32.884,0.910,Oman
+August,31.471,0.877,Oman
+September,29.725,0.806,Oman
+October,27.119,0.739,Oman
+November,23.930,0.738,Oman
+December,20.713,0.761,Oman
+January,8.878,0.756,Pakistan
+February,11.379,0.727,Pakistan
+March,16.808,0.709,Pakistan
+April,22.264,0.704,Pakistan
+May,27.170,0.665,Pakistan
+June,29.770,0.716,Pakistan
+July,29.502,0.715,Pakistan
+August,28.143,0.694,Pakistan
+September,25.745,0.660,Pakistan
+October,21.228,0.677,Pakistan
+November,15.505,0.732,Pakistan
+December,10.452,0.733,Pakistan
+January,26.720,0.517,Palau
+February,26.760,0.539,Palau
+March,27.056,0.539,Palau
+April,27.361,0.548,Palau
+May,27.622,0.509,Palau
+June,27.427,0.514,Palau
+July,27.285,0.532,Palau
+August,27.306,0.530,Palau
+September,27.364,0.516,Palau
+October,27.285,0.496,Palau
+November,27.374,0.484,Palau
+December,27.029,0.501,Palau
+January,20.965,0.686,Palestina
+February,21.498,0.706,Palestina
+March,22.303,0.670,Palestina
+April,23.008,0.635,Palestina
+May,23.967,0.585,Palestina
+June,24.608,0.578,Palestina
+July,24.873,0.574,Palestina
+August,24.813,0.604,Palestina
+September,24.333,0.561,Palestina
+October,23.576,0.620,Palestina
+November,22.400,0.696,Palestina
+December,21.197,0.703,Palestina
+January,26.613,0.717,Palmyra Atoll
+February,26.698,0.757,Palmyra Atoll
+March,26.954,0.706,Palmyra Atoll
+April,27.097,0.672,Palmyra Atoll
+May,27.275,0.656,Palmyra Atoll
+June,27.311,0.664,Palmyra Atoll
+July,27.543,0.652,Palmyra Atoll
+August,27.685,0.632,Palmyra Atoll
+September,27.515,0.652,Palmyra Atoll
+October,27.258,0.682,Palmyra Atoll
+November,27.193,0.686,Palmyra Atoll
+December,26.820,0.719,Palmyra Atoll
+January,26.044,0.730,Panama
+February,26.358,0.756,Panama
+March,26.826,0.740,Panama
+April,26.995,0.706,Panama
+May,26.907,0.642,Panama
+June,26.526,0.624,Panama
+July,26.457,0.639,Panama
+August,26.356,0.615,Panama
+September,26.083,0.603,Panama
+October,25.582,0.601,Panama
+November,25.607,0.631,Panama
+December,25.741,0.753,Panama
+January,24.782,0.500,Papua New Guinea
+February,24.793,0.501,Papua New Guinea
+March,24.801,0.470,Papua New Guinea
+April,24.599,0.464,Papua New Guinea
+May,24.542,0.464,Papua New Guinea
+June,24.072,0.482,Papua New Guinea
+July,23.668,0.506,Papua New Guinea
+August,23.726,0.483,Papua New Guinea
+September,24.205,0.485,Papua New Guinea
+October,24.528,0.485,Papua New Guinea
+November,24.851,0.458,Papua New Guinea
+December,24.846,0.480,Papua New Guinea
+January,27.250,0.918,Paraguay
+February,26.905,0.897,Paraguay
+March,25.791,0.853,Paraguay
+April,22.890,0.852,Paraguay
+May,20.127,0.834,Paraguay
+June,18.340,0.907,Paraguay
+July,18.374,0.882,Paraguay
+August,20.093,0.897,Paraguay
+September,22.184,0.873,Paraguay
+October,24.251,0.859,Paraguay
+November,25.840,0.875,Paraguay
+December,26.845,0.944,Paraguay
+January,20.527,0.535,Peru
+February,20.635,0.555,Peru
+March,20.639,0.521,Peru
+April,20.223,0.520,Peru
+May,19.691,0.551,Peru
+June,18.921,0.595,Peru
+July,18.689,0.575,Peru
+August,19.277,0.540,Peru
+September,19.867,0.523,Peru
+October,20.038,0.491,Peru
+November,20.363,0.507,Peru
+December,20.395,0.486,Peru
+January,24.995,0.535,Philippines
+February,25.279,0.547,Philippines
+March,26.220,0.521,Philippines
+April,27.215,0.521,Philippines
+May,27.718,0.486,Philippines
+June,27.346,0.482,Philippines
+July,27.024,0.474,Philippines
+August,26.920,0.469,Philippines
+September,26.780,0.448,Philippines
+October,26.407,0.449,Philippines
+November,26.061,0.474,Philippines
+December,25.324,0.520,Philippines
+January,-4.184,2.060,Poland
+February,-2.611,1.897,Poland
+March,1.549,1.631,Poland
+April,7.510,1.567,Poland
+May,13.013,1.422,Poland
+June,16.465,1.414,Poland
+July,18.326,1.461,Poland
+August,17.650,1.422,Poland
+September,13.475,1.370,Poland
+October,7.882,1.472,Poland
+November,2.495,1.623,Poland
+December,-1.951,1.816,Poland
+January,8.105,1.715,Portugal
+February,9.450,1.632,Portugal
+March,11.296,1.435,Portugal
+April,13.134,1.427,Portugal
+May,16.029,1.343,Portugal
+June,19.493,1.362,Portugal
+July,21.875,1.375,Portugal
+August,21.915,1.373,Portugal
+September,19.480,1.322,Portugal
+October,15.378,1.371,Portugal
+November,11.502,1.461,Portugal
+December,8.586,1.557,Portugal
+January,23.685,0.664,Puerto Rico
+February,23.511,0.612,Puerto Rico
+March,23.814,0.547,Puerto Rico
+April,24.485,0.569,Puerto Rico
+May,25.742,0.547,Puerto Rico
+June,26.677,0.509,Puerto Rico
+July,27.047,0.515,Puerto Rico
+August,27.103,0.501,Puerto Rico
+September,26.883,0.488,Puerto Rico
+October,26.386,0.477,Puerto Rico
+November,25.683,0.562,Puerto Rico
+December,24.437,0.681,Puerto Rico
+January,17.060,0.970,Qatar
+February,18.071,0.940,Qatar
+March,21.437,0.930,Qatar
+April,25.928,0.899,Qatar
+May,31.078,0.918,Qatar
+June,34.049,0.979,Qatar
+July,35.113,0.971,Qatar
+August,34.588,0.950,Qatar
+September,32.488,0.874,Qatar
+October,28.830,0.855,Qatar
+November,23.973,0.907,Qatar
+December,19.096,0.972,Qatar
+January,25.489,0.878,Reunion
+February,25.878,0.734,Reunion
+March,25.626,0.698,Reunion
+April,24.667,0.696,Reunion
+May,23.513,0.716,Reunion
+June,22.253,0.709,Reunion
+July,21.431,0.726,Reunion
+August,20.922,0.719,Reunion
+September,21.041,0.694,Reunion
+October,21.573,0.775,Reunion
+November,22.996,0.742,Reunion
+December,24.332,0.857,Reunion
+January,-3.636,1.979,Romania
+February,-1.763,1.824,Romania
+March,2.881,1.584,Romania
+April,8.863,1.528,Romania
+May,14.540,1.413,Romania
+June,18.127,1.408,Romania
+July,20.021,1.437,Romania
+August,19.365,1.405,Romania
+September,15.060,1.374,Romania
+October,9.436,1.461,Romania
+November,3.703,1.601,Romania
+December,-1.368,1.828,Romania
+January,-25.823,1.249,Russia
+February,-23.049,1.202,Russia
+March,-15.637,1.075,Russia
+April,-5.806,1.069,Russia
+May,3.742,0.980,Russia
+June,11.518,1.004,Russia
+July,15.035,0.972,Russia
+August,12.528,0.968,Russia
+September,5.611,0.950,Russia
+October,-4.606,0.982,Russia
+November,-16.180,1.170,Russia
+December,-23.723,1.207,Russia
+January,19.223,0.748,Rwanda
+February,19.330,0.704,Rwanda
+March,19.192,0.666,Rwanda
+April,18.942,0.619,Rwanda
+May,19.185,0.609,Rwanda
+June,19.169,0.634,Rwanda
+July,19.289,0.646,Rwanda
+August,19.815,0.663,Rwanda
+September,19.896,0.687,Rwanda
+October,19.276,0.627,Rwanda
+November,18.860,0.644,Rwanda
+December,18.770,0.709,Rwanda
+January,24.850,0.707,Saint Barthélemy
+February,24.862,0.653,Saint Barthélemy
+March,25.264,0.602,Saint Barthélemy
+April,25.810,0.615,Saint Barthélemy
+May,26.879,0.597,Saint Barthélemy
+June,27.701,0.563,Saint Barthélemy
+July,28.056,0.563,Saint Barthélemy
+August,28.170,0.536,Saint Barthélemy
+September,27.982,0.537,Saint Barthélemy
+October,27.508,0.530,Saint Barthélemy
+November,26.774,0.600,Saint Barthélemy
+December,25.501,0.691,Saint Barthélemy
+January,24.313,0.667,Saint Kitts And Nevis
+February,24.266,0.612,Saint Kitts And Nevis
+March,24.654,0.554,Saint Kitts And Nevis
+April,25.252,0.579,Saint Kitts And Nevis
+May,26.267,0.564,Saint Kitts And Nevis
+June,26.863,0.524,Saint Kitts And Nevis
+July,27.098,0.529,Saint Kitts And Nevis
+August,27.217,0.509,Saint Kitts And Nevis
+September,27.009,0.505,Saint Kitts And Nevis
+October,26.511,0.493,Saint Kitts And Nevis
+November,25.923,0.556,Saint Kitts And Nevis
+December,24.879,0.657,Saint Kitts And Nevis
+January,25.394,0.691,Saint Lucia
+February,25.335,0.641,Saint Lucia
+March,25.764,0.572,Saint Lucia
+April,26.353,0.571,Saint Lucia
+May,27.222,0.571,Saint Lucia
+June,27.358,0.501,Saint Lucia
+July,27.405,0.508,Saint Lucia
+August,27.562,0.504,Saint Lucia
+September,27.504,0.519,Saint Lucia
+October,27.132,0.490,Saint Lucia
+November,26.804,0.549,Saint Lucia
+December,25.946,0.643,Saint Lucia
+January,24.850,0.707,Saint Martin
+February,24.862,0.653,Saint Martin
+March,25.264,0.602,Saint Martin
+April,25.810,0.615,Saint Martin
+May,26.879,0.597,Saint Martin
+June,27.701,0.563,Saint Martin
+July,28.056,0.563,Saint Martin
+August,28.170,0.536,Saint Martin
+September,27.982,0.537,Saint Martin
+October,27.508,0.530,Saint Martin
+November,26.774,0.600,Saint Martin
+December,25.501,0.691,Saint Martin
+January,-5.334,1.831,Saint Pierre And Miquelon
+February,-5.688,1.763,Saint Pierre And Miquelon
+March,-2.805,1.640,Saint Pierre And Miquelon
+April,1.373,1.525,Saint Pierre And Miquelon
+May,5.820,1.480,Saint Pierre And Miquelon
+June,10.296,1.532,Saint Pierre And Miquelon
+July,14.333,1.564,Saint Pierre And Miquelon
+August,15.078,1.506,Saint Pierre And Miquelon
+September,11.730,1.470,Saint Pierre And Miquelon
+October,6.648,1.491,Saint Pierre And Miquelon
+November,2.231,1.620,Saint Pierre And Miquelon
+December,-2.545,1.702,Saint Pierre And Miquelon
+January,25.591,0.684,Saint Vincent And The Grenadines
+February,25.569,0.637,Saint Vincent And The Grenadines
+March,25.990,0.560,Saint Vincent And The Grenadines
+April,26.565,0.561,Saint Vincent And The Grenadines
+May,27.353,0.563,Saint Vincent And The Grenadines
+June,27.380,0.493,Saint Vincent And The Grenadines
+July,27.432,0.501,Saint Vincent And The Grenadines
+August,27.634,0.497,Saint Vincent And The Grenadines
+September,27.656,0.514,Saint Vincent And The Grenadines
+October,27.282,0.483,Saint Vincent And The Grenadines
+November,26.938,0.546,Saint Vincent And The Grenadines
+December,26.099,0.635,Saint Vincent And The Grenadines
+January,26.488,0.541,Samoa
+February,26.559,0.529,Samoa
+March,26.638,0.508,Samoa
+April,26.538,0.507,Samoa
+May,26.512,0.489,Samoa
+June,26.241,0.537,Samoa
+July,25.936,0.545,Samoa
+August,25.951,0.503,Samoa
+September,26.078,0.519,Samoa
+October,26.145,0.513,Samoa
+November,26.421,0.517,Samoa
+December,26.478,0.556,Samoa
+January,5.587,2.062,San Marino
+February,6.108,1.916,San Marino
+March,8.455,1.589,San Marino
+April,11.752,1.542,San Marino
+May,16.091,1.402,San Marino
+June,19.763,1.404,San Marino
+July,22.426,1.432,San Marino
+August,22.514,1.397,San Marino
+September,19.483,1.334,San Marino
+October,15.278,1.446,San Marino
+November,11.094,1.622,San Marino
+December,7.527,1.794,San Marino
+January,26.179,0.626,Sao Tome And Principe
+February,26.704,0.623,Sao Tome And Principe
+March,26.821,0.614,Sao Tome And Principe
+April,26.573,0.587,Sao Tome And Principe
+May,26.400,0.575,Sao Tome And Principe
+June,25.245,0.582,Sao Tome And Principe
+July,24.503,0.583,Sao Tome And Principe
+August,24.625,0.586,Sao Tome And Principe
+September,25.152,0.572,Sao Tome And Principe
+October,25.346,0.571,Sao Tome And Principe
+November,25.926,0.582,Sao Tome And Principe
+December,26.000,0.603,Sao Tome And Principe
+January,15.316,0.826,Saudi Arabia
+February,17.384,0.799,Saudi Arabia
+March,21.214,0.775,Saudi Arabia
+April,25.631,0.774,Saudi Arabia
+May,30.319,0.772,Saudi Arabia
+June,33.204,0.801,Saudi Arabia
+July,34.297,0.818,Saudi Arabia
+August,33.927,0.835,Saudi Arabia
+September,31.383,0.781,Saudi Arabia
+October,26.633,0.778,Saudi Arabia
+November,20.970,0.800,Saudi Arabia
+December,16.382,0.835,Saudi Arabia
+January,24.295,0.803,Senegal
+February,26.407,0.791,Senegal
+March,28.743,0.716,Senegal
+April,30.215,0.726,Senegal
+May,31.050,0.743,Senegal
+June,30.395,0.720,Senegal
+July,28.599,0.659,Senegal
+August,27.551,0.653,Senegal
+September,28.042,0.596,Senegal
+October,28.526,0.643,Senegal
+November,27.170,0.691,Senegal
+December,24.618,0.787,Senegal
+January,-1.783,2.013,Serbia
+February,0.250,1.866,Serbia
+March,4.735,1.559,Serbia
+April,10.077,1.548,Serbia
+May,15.262,1.422,Serbia
+June,18.711,1.402,Serbia
+July,20.724,1.434,Serbia
+August,20.270,1.406,Serbia
+September,16.175,1.364,Serbia
+October,10.565,1.465,Serbia
+November,4.855,1.608,Serbia
+December,0.089,1.806,Serbia
+January,26.322,0.861,Seychelles
+February,26.821,0.828,Seychelles
+March,27.470,0.799,Seychelles
+April,27.843,0.758,Seychelles
+May,27.778,0.758,Seychelles
+June,26.866,0.726,Seychelles
+July,26.124,0.745,Seychelles
+August,26.046,0.736,Seychelles
+September,26.411,0.684,Seychelles
+October,26.421,0.696,Seychelles
+November,26.507,0.739,Seychelles
+December,26.264,0.787,Seychelles
+January,25.323,0.851,Sierra Leone
+February,26.838,0.777,Sierra Leone
+March,27.776,0.736,Sierra Leone
+April,27.574,0.715,Sierra Leone
+May,27.014,0.664,Sierra Leone
+June,26.003,0.701,Sierra Leone
+July,25.044,0.680,Sierra Leone
+August,24.641,0.658,Sierra Leone
+September,25.223,0.616,Sierra Leone
+October,25.767,0.626,Sierra Leone
+November,25.976,0.689,Sierra Leone
+December,25.126,0.790,Sierra Leone
+January,25.768,0.712,Singapore
+February,26.219,0.638,Singapore
+March,26.651,0.612,Singapore
+April,26.847,0.565,Singapore
+May,27.294,0.506,Singapore
+June,27.229,0.531,Singapore
+July,26.901,0.552,Singapore
+August,26.638,0.560,Singapore
+September,26.482,0.510,Singapore
+October,26.328,0.529,Singapore
+November,26.196,0.567,Singapore
+December,25.711,0.669,Singapore
+January,24.850,0.707,Sint Maarten
+February,24.862,0.653,Sint Maarten
+March,25.264,0.602,Sint Maarten
+April,25.810,0.615,Sint Maarten
+May,26.879,0.597,Sint Maarten
+June,27.701,0.563,Sint Maarten
+July,28.056,0.563,Sint Maarten
+August,28.170,0.536,Sint Maarten
+September,27.982,0.537,Sint Maarten
+October,27.508,0.530,Sint Maarten
+November,26.774,0.600,Sint Maarten
+December,25.501,0.691,Sint Maarten
+January,-3.828,2.081,Slovakia
+February,-2.075,1.913,Slovakia
+March,2.005,1.599,Slovakia
+April,7.526,1.547,Slovakia
+May,12.923,1.426,Slovakia
+June,16.255,1.400,Slovakia
+July,17.996,1.444,Slovakia
+August,17.340,1.404,Slovakia
+September,13.361,1.371,Slovakia
+October,8.055,1.472,Slovakia
+November,2.660,1.621,Slovakia
+December,-1.800,1.831,Slovakia
+January,-1.071,2.126,Slovenia
+February,0.906,1.958,Slovenia
+March,4.763,1.606,Slovenia
+April,9.336,1.554,Slovenia
+May,14.344,1.407,Slovenia
+June,17.914,1.393,Slovenia
+July,19.896,1.424,Slovenia
+August,19.208,1.400,Slovenia
+September,15.375,1.344,Slovenia
+October,10.131,1.461,Slovenia
+November,4.750,1.647,Slovenia
+December,0.451,1.851,Slovenia
+January,26.987,0.569,Solomon Islands
+February,26.947,0.562,Solomon Islands
+March,26.936,0.537,Solomon Islands
+April,26.802,0.546,Solomon Islands
+May,26.809,0.523,Solomon Islands
+June,26.532,0.566,Solomon Islands
+July,26.239,0.568,Solomon Islands
+August,26.123,0.547,Solomon Islands
+September,26.222,0.520,Solomon Islands
+October,26.288,0.519,Solomon Islands
+November,26.707,0.584,Solomon Islands
+December,26.912,0.618,Solomon Islands
+January,25.112,0.792,Somalia
+February,26.062,0.819,Somalia
+March,27.419,0.802,Somalia
+April,27.987,0.784,Somalia
+May,28.144,0.749,Somalia
+June,27.829,0.747,Somalia
+July,27.267,0.784,Somalia
+August,27.347,0.806,Somalia
+September,27.695,0.805,Somalia
+October,26.637,0.782,Somalia
+November,25.837,0.791,Somalia
+December,25.161,0.808,Somalia
+January,22.670,0.637,South Africa
+February,22.331,0.631,South Africa
+March,20.602,0.598,South Africa
+April,17.257,0.600,South Africa
+May,13.815,0.607,South Africa
+June,11.017,0.616,South Africa
+July,10.789,0.617,South Africa
+August,12.817,0.590,South Africa
+September,15.813,0.591,South Africa
+October,18.204,0.554,South Africa
+November,20.194,0.600,South Africa
+December,21.753,0.657,South Africa
+January,23.538,0.475,South America
+February,23.430,0.457,South America
+March,22.985,0.422,South America
+April,21.794,0.428,South America
+May,20.608,0.423,South America
+June,19.480,0.455,South America
+July,19.394,0.437,South America
+August,20.396,0.419,South America
+September,21.573,0.407,South America
+October,22.351,0.397,South America
+November,23.046,0.426,South America
+December,23.312,0.475,South America
+January,4.465,1.255,South Georgia And The South Sandwich Isla
+February,4.857,1.200,South Georgia And The South Sandwich Isla
+March,4.094,1.219,South Georgia And The South Sandwich Isla
+April,1.996,1.308,South Georgia And The South Sandwich Isla
+May,0.041,1.637,South Georgia And The South Sandwich Isla
+June,-1.218,1.792,South Georgia And The South Sandwich Isla
+July,-1.596,1.686,South Georgia And The South Sandwich Isla
+August,-1.571,1.634,South Georgia And The South Sandwich Isla
+September,-0.558,1.406,South Georgia And The South Sandwich Isla
+October,0.764,1.169,South Georgia And The South Sandwich Isla
+November,2.240,1.216,South Georgia And The South Sandwich Isla
+December,3.249,1.145,South Georgia And The South Sandwich Isla
+January,-1.887,0.805,South Korea
+February,-0.004,0.761,South Korea
+March,4.868,0.678,South Korea
+April,11.047,0.679,South Korea
+May,16.301,0.636,South Korea
+June,20.626,0.672,South Korea
+July,24.470,0.658,South Korea
+August,24.944,0.618,South Korea
+September,20.130,0.573,South Korea
+October,13.746,0.593,South Korea
+November,7.114,0.656,South Korea
+December,0.800,0.763,South Korea
+January,5.725,1.760,Spain
+February,7.293,1.643,Spain
+March,9.497,1.436,Spain
+April,11.752,1.416,Spain
+May,15.362,1.316,Spain
+June,19.566,1.333,Spain
+July,22.644,1.336,Spain
+August,22.561,1.324,Spain
+September,19.162,1.273,Spain
+October,14.072,1.337,Spain
+November,9.513,1.450,Spain
+December,6.286,1.549,Spain
+January,25.383,0.944,Sri Lanka
+February,26.214,0.864,Sri Lanka
+March,27.459,0.843,Sri Lanka
+April,28.015,0.786,Sri Lanka
+May,28.312,0.733,Sri Lanka
+June,27.899,0.734,Sri Lanka
+July,27.599,0.763,Sri Lanka
+August,27.462,0.736,Sri Lanka
+September,27.204,0.694,Sri Lanka
+October,26.489,0.730,Sri Lanka
+November,26.015,0.851,Sri Lanka
+December,25.339,0.907,Sri Lanka
+January,22.314,0.825,Sudan
+February,23.887,0.707,Sudan
+March,26.570,0.744,Sudan
+April,28.997,0.696,Sudan
+May,30.485,0.660,Sudan
+June,30.299,0.667,Sudan
+July,29.002,0.700,Sudan
+August,28.557,0.713,Sudan
+September,28.775,0.683,Sudan
+October,28.013,0.688,Sudan
+November,25.408,0.712,Sudan
+December,22.798,0.708,Sudan
+January,25.297,0.681,Suriname
+February,25.432,0.637,Suriname
+March,25.826,0.586,Suriname
+April,25.935,0.599,Suriname
+May,26.036,0.558,Suriname
+June,25.895,0.525,Suriname
+July,26.082,0.517,Suriname
+August,26.603,0.507,Suriname
+September,27.108,0.501,Suriname
+October,27.156,0.515,Suriname
+November,26.899,0.575,Suriname
+December,25.825,0.675,Suriname
+January,-15.063,3.235,Svalbard And Jan Mayen
+February,-16.025,3.182,Svalbard And Jan Mayen
+March,-16.071,3.114,Svalbard And Jan Mayen
+April,-12.279,2.979,Svalbard And Jan Mayen
+May,-5.407,2.857,Svalbard And Jan Mayen
+June,0.885,2.855,Svalbard And Jan Mayen
+July,4.101,2.858,Svalbard And Jan Mayen
+August,3.176,2.815,Svalbard And Jan Mayen
+September,-1.157,2.808,Svalbard And Jan Mayen
+October,-7.026,2.882,Svalbard And Jan Mayen
+November,-11.101,3.015,Svalbard And Jan Mayen
+December,-13.651,3.111,Svalbard And Jan Mayen
+January,22.597,0.725,Swaziland
+February,22.470,0.695,Swaziland
+March,21.455,0.666,Swaziland
+April,19.069,0.648,Swaziland
+May,16.262,0.677,Swaziland
+June,13.849,0.729,Swaziland
+July,13.846,0.699,Swaziland
+August,15.840,0.695,Swaziland
+September,18.148,0.688,Swaziland
+October,19.611,0.665,Swaziland
+November,20.947,0.711,Swaziland
+December,21.998,0.729,Swaziland
+January,-8.542,2.090,Sweden
+February,-7.697,1.922,Sweden
+March,-4.434,1.661,Sweden
+April,0.908,1.594,Sweden
+May,6.927,1.468,Sweden
+June,12.234,1.520,Sweden
+July,14.844,1.517,Sweden
+August,13.230,1.481,Sweden
+September,8.515,1.379,Sweden
+October,2.526,1.505,Sweden
+November,-2.862,1.673,Sweden
+December,-6.908,1.827,Sweden
+January,-2.484,2.086,Switzerland
+February,-0.823,1.924,Switzerland
+March,2.434,1.609,Switzerland
+April,6.327,1.555,Switzerland
+May,10.985,1.410,Switzerland
+June,14.418,1.408,Switzerland
+July,16.393,1.427,Switzerland
+August,15.834,1.412,Switzerland
+September,12.474,1.347,Switzerland
+October,7.376,1.468,Switzerland
+November,2.327,1.653,Switzerland
+December,-1.276,1.820,Switzerland
+January,6.065,1.102,Syria
+February,8.020,1.051,Syria
+March,11.912,1.007,Syria
+April,16.609,0.988,Syria
+May,22.046,0.951,Syria
+June,26.448,0.966,Syria
+July,29.009,0.965,Syria
+August,28.835,0.948,Syria
+September,25.280,0.883,Syria
+October,19.853,0.983,Syria
+November,13.203,1.027,Syria
+December,7.768,1.117,Syria
+January,16.115,0.747,Taiwan
+February,16.271,0.772,Taiwan
+March,18.157,0.697,Taiwan
+April,21.033,0.674,Taiwan
+May,23.964,0.613,Taiwan
+June,25.892,0.613,Taiwan
+July,27.182,0.625,Taiwan
+August,26.925,0.621,Taiwan
+September,25.817,0.573,Taiwan
+October,23.448,0.598,Taiwan
+November,20.781,0.639,Taiwan
+December,17.725,0.698,Taiwan
+January,-10.634,1.219,Tajikistan
+February,-7.940,1.183,Tajikistan
+March,-1.650,1.067,Tajikistan
+April,4.990,0.975,Tajikistan
+May,10.148,0.922,Tajikistan
+June,14.587,0.953,Tajikistan
+July,17.085,1.001,Tajikistan
+August,15.904,1.007,Tajikistan
+September,11.096,0.944,Tajikistan
+October,4.466,0.942,Tajikistan
+November,-2.017,0.999,Tajikistan
+December,-7.935,1.150,Tajikistan
+January,23.013,0.536,Tanzania
+February,23.087,0.502,Tanzania
+March,23.085,0.457,Tanzania
+April,22.433,0.456,Tanzania
+May,21.747,0.418,Tanzania
+June,20.690,0.449,Tanzania
+July,20.295,0.421,Tanzania
+August,21.104,0.430,Tanzania
+September,22.479,0.428,Tanzania
+October,23.411,0.429,Tanzania
+November,23.688,0.476,Tanzania
+December,23.153,0.513,Tanzania
+January,22.827,0.823,Thailand
+February,24.705,0.785,Thailand
+March,26.999,0.755,Thailand
+April,28.321,0.741,Thailand
+May,28.211,0.629,Thailand
+June,27.612,0.643,Thailand
+July,27.136,0.635,Thailand
+August,26.855,0.620,Thailand
+September,26.460,0.581,Thailand
+October,25.696,0.637,Thailand
+November,24.348,0.718,Thailand
+December,22.562,0.758,Thailand
+January,26.568,0.650,Timor Leste
+February,26.355,0.630,Timor Leste
+March,26.419,0.614,Timor Leste
+April,26.255,0.630,Timor Leste
+May,25.965,0.631,Timor Leste
+June,25.169,0.628,Timor Leste
+July,24.549,0.661,Timor Leste
+August,24.502,0.616,Timor Leste
+September,25.251,0.631,Timor Leste
+October,26.364,0.650,Timor Leste
+November,27.242,0.631,Timor Leste
+December,26.980,0.634,Timor Leste
+January,26.829,0.640,Togo
+February,28.457,0.603,Togo
+March,29.256,0.604,Togo
+April,28.576,0.583,Togo
+May,27.578,0.536,Togo
+June,26.186,0.536,Togo
+July,25.261,0.511,Togo
+August,24.934,0.532,Togo
+September,25.473,0.489,Togo
+October,26.237,0.513,Togo
+November,26.995,0.558,Togo
+December,26.622,0.615,Togo
+January,25.228,0.643,Tonga
+February,25.765,0.658,Tonga
+March,25.618,0.614,Tonga
+April,24.456,0.612,Tonga
+May,23.054,0.612,Tonga
+June,21.976,0.649,Tonga
+July,21.156,0.622,Tonga
+August,20.905,0.585,Tonga
+September,21.176,0.650,Tonga
+October,21.934,0.625,Tonga
+November,23.265,0.659,Tonga
+December,24.350,0.626,Tonga
+January,25.014,0.704,Trinidad And Tobago
+February,25.211,0.666,Trinidad And Tobago
+March,25.862,0.602,Trinidad And Tobago
+April,26.478,0.616,Trinidad And Tobago
+May,26.984,0.593,Trinidad And Tobago
+June,26.467,0.514,Trinidad And Tobago
+July,26.325,0.537,Trinidad And Tobago
+August,26.448,0.529,Trinidad And Tobago
+September,26.634,0.548,Trinidad And Tobago
+October,26.413,0.504,Trinidad And Tobago
+November,26.187,0.585,Trinidad And Tobago
+December,25.407,0.692,Trinidad And Tobago
+January,10.315,1.781,Tunisia
+February,12.129,1.651,Tunisia
+March,15.032,1.457,Tunisia
+April,18.358,1.464,Tunisia
+May,22.754,1.382,Tunisia
+June,27.107,1.386,Tunisia
+July,29.731,1.416,Tunisia
+August,29.486,1.355,Tunisia
+September,26.327,1.310,Tunisia
+October,21.232,1.423,Tunisia
+November,15.819,1.520,Tunisia
+December,11.339,1.608,Tunisia
+January,0.342,1.430,Turkey
+February,1.632,1.388,Turkey
+March,5.354,1.231,Turkey
+April,10.038,1.191,Turkey
+May,15.051,1.140,Turkey
+June,19.397,1.160,Turkey
+July,22.603,1.171,Turkey
+August,22.669,1.149,Turkey
+September,18.622,1.131,Turkey
+October,13.306,1.202,Turkey
+November,7.772,1.235,Turkey
+December,2.702,1.388,Turkey
+January,-0.039,1.229,Turkmenistan
+February,2.500,1.138,Turkmenistan
+March,8.097,1.107,Turkmenistan
+April,15.294,1.077,Turkmenistan
+May,22.188,1.028,Turkmenistan
+June,27.213,1.055,Turkmenistan
+July,29.664,1.073,Turkmenistan
+August,27.692,1.079,Turkmenistan
+September,21.707,1.007,Turkmenistan
+October,14.079,0.985,Turkmenistan
+November,7.215,1.098,Turkmenistan
+December,1.878,1.169,Turkmenistan
+January,24.261,0.924,Turks And Caicas Islands
+February,24.465,0.903,Turks And Caicas Islands
+March,24.884,0.799,Turks And Caicas Islands
+April,25.554,0.793,Turks And Caicas Islands
+May,26.991,0.730,Turks And Caicas Islands
+June,28.410,0.743,Turks And Caicas Islands
+July,29.085,0.723,Turks And Caicas Islands
+August,29.085,0.688,Turks And Caicas Islands
+September,28.670,0.681,Turks And Caicas Islands
+October,27.599,0.729,Turks And Caicas Islands
+November,26.212,0.845,Turks And Caicas Islands
+December,24.730,0.972,Turks And Caicas Islands
+January,23.617,0.669,Uganda
+February,24.138,0.680,Uganda
+March,24.147,0.653,Uganda
+April,23.369,0.605,Uganda
+May,22.984,0.585,Uganda
+June,22.515,0.578,Uganda
+July,22.101,0.556,Uganda
+August,22.259,0.573,Uganda
+September,22.646,0.580,Uganda
+October,22.755,0.570,Uganda
+November,22.871,0.603,Uganda
+December,22.961,0.626,Uganda
+January,-5.502,1.822,Ukraine
+February,-4.372,1.707,Ukraine
+March,0.369,1.552,Ukraine
+April,7.835,1.517,Ukraine
+May,14.548,1.394,Ukraine
+June,18.341,1.398,Ukraine
+July,20.272,1.429,Ukraine
+August,19.354,1.396,Ukraine
+September,14.249,1.372,Ukraine
+October,7.828,1.460,Ukraine
+November,2.033,1.540,Ukraine
+December,-3.003,1.738,Ukraine
+January,18.470,0.849,United Arab Emirates
+February,19.985,0.788,United Arab Emirates
+March,23.536,0.797,United Arab Emirates
+April,27.591,0.774,United Arab Emirates
+May,31.929,0.800,United Arab Emirates
+June,34.518,0.837,United Arab Emirates
+July,35.746,0.877,United Arab Emirates
+August,35.223,0.838,United Arab Emirates
+September,32.867,0.779,United Arab Emirates
+October,28.829,0.755,United Arab Emirates
+November,24.099,0.795,United Arab Emirates
+December,19.922,0.846,United Arab Emirates
+January,3.211,1.957,United Kingdom (Europe)
+February,3.832,1.810,United Kingdom (Europe)
+March,5.045,1.547,United Kingdom (Europe)
+April,7.185,1.528,United Kingdom (Europe)
+May,10.331,1.398,United Kingdom (Europe)
+June,13.265,1.430,United Kingdom (Europe)
+July,14.951,1.422,United Kingdom (Europe)
+August,14.672,1.417,United Kingdom (Europe)
+September,12.528,1.317,United Kingdom (Europe)
+October,9.080,1.437,United Kingdom (Europe)
+November,5.894,1.608,United Kingdom (Europe)
+December,3.940,1.743,United Kingdom (Europe)
+January,3.566,1.944,United Kingdom
+February,4.180,1.800,United Kingdom
+March,5.245,1.551,United Kingdom
+April,7.146,1.532,United Kingdom
+May,9.995,1.407,United Kingdom
+June,12.669,1.436,United Kingdom
+July,14.223,1.431,United Kingdom
+August,13.968,1.427,United Kingdom
+September,11.993,1.338,United Kingdom
+October,8.822,1.449,United Kingdom
+November,5.943,1.605,United Kingdom
+December,4.178,1.734,United Kingdom
+January,-3.862,1.072,United States
+February,-1.879,0.971,United States
+March,2.363,0.882,United States
+April,7.995,0.776,United States
+May,13.793,0.749,United States
+June,18.747,0.738,United States
+July,21.385,0.699,United States
+August,20.356,0.710,United States
+September,15.906,0.667,United States
+October,9.183,0.785,United States
+November,2.438,0.894,United States
+December,-2.613,1.024,United States
+January,23.529,0.873,Uruguay
+February,23.025,0.816,Uruguay
+March,21.117,0.819,Uruguay
+April,17.265,0.799,Uruguay
+May,14.048,0.750,Uruguay
+June,11.489,0.811,Uruguay
+July,11.168,0.773,Uruguay
+August,12.273,0.778,Uruguay
+September,14.019,0.745,Uruguay
+October,16.432,0.763,Uruguay
+November,19.468,0.799,Uruguay
+December,21.976,0.881,Uruguay
+January,-3.545,1.278,Uzbekistan
+February,-1.127,1.199,Uzbekistan
+March,5.230,1.188,Uzbekistan
+April,13.448,1.093,Uzbekistan
+May,20.518,1.029,Uzbekistan
+June,25.586,1.066,Uzbekistan
+July,27.879,1.095,Uzbekistan
+August,25.654,1.065,Uzbekistan
+September,19.306,1.019,Uzbekistan
+October,11.399,1.008,Uzbekistan
+November,4.381,1.113,Uzbekistan
+December,-1.256,1.222,Uzbekistan
+January,24.503,0.656,Venezuela
+February,25.056,0.649,Venezuela
+March,25.648,0.595,Venezuela
+April,25.651,0.606,Venezuela
+May,25.431,0.609,Venezuela
+June,24.745,0.554,Venezuela
+July,24.570,0.548,Venezuela
+August,24.813,0.528,Venezuela
+September,25.124,0.532,Venezuela
+October,25.103,0.521,Venezuela
+November,25.110,0.571,Venezuela
+December,24.542,0.661,Venezuela
+January,19.031,0.730,Vietnam
+February,19.953,0.735,Vietnam
+March,22.164,0.676,Vietnam
+April,24.678,0.658,Vietnam
+May,26.545,0.586,Vietnam
+June,27.118,0.581,Vietnam
+July,27.013,0.569,Vietnam
+August,26.585,0.560,Vietnam
+September,25.637,0.528,Vietnam
+October,23.936,0.561,Vietnam
+November,21.894,0.598,Vietnam
+December,19.658,0.665,Vietnam
+January,24.588,0.683,Virgin Islands
+February,24.562,0.636,Virgin Islands
+March,24.918,0.579,Virgin Islands
+April,25.490,0.592,Virgin Islands
+May,26.609,0.575,Virgin Islands
+June,27.484,0.546,Virgin Islands
+July,27.877,0.547,Virgin Islands
+August,27.961,0.521,Virgin Islands
+September,27.707,0.520,Virgin Islands
+October,27.180,0.512,Virgin Islands
+November,26.455,0.591,Virgin Islands
+December,25.231,0.685,Virgin Islands
+January,16.387,1.195,Western Sahara
+February,18.132,1.206,Western Sahara
+March,20.290,1.195,Western Sahara
+April,21.493,1.126,Western Sahara
+May,23.093,1.172,Western Sahara
+June,25.501,1.163,Western Sahara
+July,27.578,1.159,Western Sahara
+August,28.062,1.147,Western Sahara
+September,26.653,1.057,Western Sahara
+October,23.712,1.103,Western Sahara
+November,20.228,1.141,Western Sahara
+December,16.841,1.198,Western Sahara
+January,20.476,0.875,Yemen
+February,22.272,0.850,Yemen
+March,24.845,0.838,Yemen
+April,27.253,0.809,Yemen
+May,29.541,0.766,Yemen
+June,30.925,0.815,Yemen
+July,30.791,0.947,Yemen
+August,30.027,0.986,Yemen
+September,29.010,0.905,Yemen
+October,26.014,0.855,Yemen
+November,23.188,0.887,Yemen
+December,20.752,0.895,Yemen
+January,22.196,0.592,Zambia
+February,22.323,0.600,Zambia
+March,22.286,0.549,Zambia
+April,21.333,0.548,Zambia
+May,19.529,0.585,Zambia
+June,17.383,0.589,Zambia
+July,17.203,0.560,Zambia
+August,19.511,0.553,Zambia
+September,22.802,0.552,Zambia
+October,24.483,0.545,Zambia
+November,23.921,0.561,Zambia
+December,22.499,0.585,Zambia
+January,23.528,0.561,Zimbabwe
+February,23.382,0.546,Zimbabwe
+March,22.829,0.541,Zimbabwe
+April,21.080,0.546,Zimbabwe
+May,18.535,0.553,Zimbabwe
+June,16.150,0.569,Zimbabwe
+July,15.927,0.564,Zimbabwe
+August,18.260,0.561,Zimbabwe
+September,21.748,0.586,Zimbabwe
+October,24.037,0.534,Zimbabwe
+November,24.378,0.558,Zimbabwe
+December,23.673,0.554,Zimbabwe
